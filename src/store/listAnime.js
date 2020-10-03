@@ -900,5 +900,11 @@ export default [
     animeName:'Hor Cafe',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/39182/Hor_Cafe'
+  },
+  {
+    animeEmoji:'⚔💪🛡',
+    animeName:'G-9',
+    animeYear:2006,
+    animeLink:'https://myanimelist.net/anime/5785/G-9'
   }
 ];
