@@ -1,0 +1,7 @@
+body {
+    background: #3a284f;
+}
+
+.card-body.h2{
+    cursor: pointer;
+}
