@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: '👊👨‍🦳😻',
+    animeName: 'G-Taste (2010)',
+    animeYear: 2010,
+    animeLink: 'https://myanimelist.net/anime/9600/G-Taste_2010',
+  },
+  {
     animeEmoji: '💪👊👨‍🦳😻',
     animeName: '3-gatsu no Lion',
     animeYear: 2016,
