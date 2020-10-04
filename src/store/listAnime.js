@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ⚔️ 🙍🏻‍♂💨",
+        animeName:"Hellsing Ultimate",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/777/Hellsing_Ultimate"
+  },
+  {
         animeEmoji:" ⚔️ 🙍🏻‍♂",
         animeName:"Yakusoku no Neverland",
         animeYear:2019,
