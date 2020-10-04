@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🙍🏻 🔪 🌂",
+        animeName:"Detective Conan",
+        animeYear:2996,
+        animeLink:"https://myanimelist.net/anime/235/Detective_Conan"
+  },
+  {
         animeEmoji:" 🙍👊🙍🏻 🔪 🌂",
         animeName:"Majo no Tabitabi",
         animeYear:2020,
