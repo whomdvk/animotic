@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ⚔️ 🙍👊️ ️ 🙍🏻‍♂🙍🏻",
+        animeName:"Zero no Tsukaima",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/1195/Zero_no_Tsukaima"
+  },
+  {
         animeEmoji:" ⚔️ 🙍👊",
         animeName:"Nisekoi",
         animeYear:2014,
