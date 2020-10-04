@@ -1,8 +1,14 @@
 export default [
   {
+        animeEmoji:" 🙍🏻 🔪 🌂👊️",
+        animeName:"Enen no Shouboutai: Ni no Shou",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou"
+  },
+  {
         animeEmoji:" 🙍🏻 🔪 🌂",
         animeName:"Detective Conan",
-        animeYear:2996,
+        animeYear:2006,
         animeLink:"https://myanimelist.net/anime/235/Detective_Conan"
   },
   {
