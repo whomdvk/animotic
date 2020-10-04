@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🙍👊🙍🏻 🔪 🌂",
+        animeName:"Majo no Tabitabi",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40571/Majo_no_Tabitabi"
+  },
+  {
         animeEmoji:" 🙍👊🏻‍♂🙍🏻 🔪 🌂",
         animeName:"Higurashi no Naku Koro ni",
         animeYear:2020,
