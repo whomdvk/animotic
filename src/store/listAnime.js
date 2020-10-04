@@ -986,9 +986,15 @@ export default [
     animeLink:'https://myanimelist.net/anime/25879/Working'
   },
   {
-    animeEmoji:'🍜💪🥪',
+    animeEmoji:'🍜💪🍼',
     animeName:'Mirai no Mirai',
     animeYear:2018,
     animeLink:'https://myanimelist.net/anime/36936/Mirai_no_Mirai'
+  },
+  {
+    animeEmoji:'🎆💪🌧',
+    animeName:'Weathering with You',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
   }
 ];
