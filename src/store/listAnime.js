@@ -972,5 +972,17 @@ export default [
     animeName:'G-9',
     animeYear:2006,
     animeLink:'https://myanimelist.net/anime/5785/G-9'
+  },
+  {
+    animeEmoji:'🤖💪⛩',
+    animeName:'Hello World',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/38816/Hello_World'
+  },
+  {
+    animeEmoji:'🍜💪🥪',
+    animeName:'Working!!',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/25879/Working'
   }
 ];
