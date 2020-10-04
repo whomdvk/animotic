@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🙍👊🏻‍♂🙍🏻 🔪 🌂",
+        animeName:"Higurashi no Naku Koro ni",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_2020"
+  },
+  {
         animeEmoji:" 🙍👊️ ️ 🙍🏻‍♂🙍🏻 🔪 🌂",
         animeName:"Jujutsu Kaisen (TV)",
         animeYear:2020,
