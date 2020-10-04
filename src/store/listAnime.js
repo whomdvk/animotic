@@ -1,5 +1,17 @@
 export default [
   {
+        animeEmoji:" ⚔️ 🙍👊",
+        animeName:"Nisekoi",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/18897/Nisekoi"
+  },
+  {
+        animeEmoji:" ⚔️ 🙍🏼‍😻",
+        animeName:"Fullmetal Alchemist: Brotherhood",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
+  },
+  {
         animeEmoji:" ⚔️ 🙍🏻‍♂😻",
         animeName:"Deadman Wonderland",
         animeYear:2011,
