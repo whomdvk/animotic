@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ⚔️ 🙍👊",
+        animeName:"Nisekoi",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/18897/Nisekoi"
+  },
+  {
         animeEmoji:" ⚔️ 🙍🏼‍😻",
         animeName:"Fullmetal Alchemist: Brotherhood",
         animeYear:2010,
