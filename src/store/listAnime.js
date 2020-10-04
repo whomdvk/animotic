@@ -1,10 +1,16 @@
 export default [
-    {
+  {
+        animeEmoji:" ⚔️ 🙍🏻‍♂",
+        animeName:"Yakusoku no Neverland",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37779/Yakusoku_no_Neverland"
+  },
+  {
         animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
         animeName:"Another",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/11111/Another"
-    },
+  },
   {
     animeEmoji: '💪👊👨‍🦳😻',
     animeName: '3-gatsu no Lion',
