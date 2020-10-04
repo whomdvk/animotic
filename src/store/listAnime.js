@@ -930,5 +930,11 @@ export default [
     animeName:'Hello World',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38816/Hello_World'
+  },
+  {
+    animeEmoji:'🍜💪🥪',
+    animeName:'Working!!',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/25879/Working'
   }
 ];
