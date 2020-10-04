@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🔪 🌂👊🙍🏻",
+        animeName:"Yuukoku no Moriarty",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40911/Yuukoku_no_Moriarty"
+  },
+  {
         animeEmoji:" 🔪 🌂👊️👊🙍🏻",
         animeName:"Hanyou no Yashahime: Sengoku Otogizoushi",
         animeYear:2020,
