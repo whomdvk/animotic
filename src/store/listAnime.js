@@ -1,9 +1,9 @@
 export default [
   {
-        animeEmoji:" 🙍👊️ ️ 🙍🏻‍♂🙍🏻",
-        animeName:"Rosario to Vampire",
-        animeYear:2008,
-        animeLink:"https://myanimelist.net/anime/2993/Rosario_to_Vampire"
+        animeEmoji:" 🙍👊️ ️ 🙍🏻‍♂🙍🏻 🔪 🌂",
+        animeName:"Jujutsu Kaisen (TV)",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV"
   },
   {
         animeEmoji:" ⚔️ 🙍👊️ ️ 🙍🏻‍♂🙍🏻",
