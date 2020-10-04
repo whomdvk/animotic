@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ⚔️ 🙍🏻‍♂😻",
+        animeName:"Deadman Wonderland",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/6880/Deadman_Wonderland"
+  },
+  {
         animeEmoji:" ⚔️ 🙍🏻‍♂💨",
         animeName:"Hellsing Ultimate",
         animeYear:2006,
@@ -18,7 +24,7 @@ export default [
         animeLink:"https://myanimelist.net/anime/11111/Another"
   },
   {
-    animeEmoji: '💪👊👨‍🦳😻',
+    animeEmoji: '💪👊👨‍🦳',
     animeName: '3-gatsu no Lion',
     animeYear: 2016,
     animeLink: 'https://myanimelist.net/anime/31646/3-gatsu_no_Lion',
