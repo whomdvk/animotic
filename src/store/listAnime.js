@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🔪 🌂👊️👊🙍🏻",
+        animeName:"Hanyou no Yashahime: Sengoku Otogizoushi",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41911/Hanyou_no_Yashahime__Sengoku_Otogizoushi"
+  },
+  {
         animeEmoji:" 🙍🏻 🔪 🌂👊️👊🙍🏻",
         animeName:"Majo no Tabitabi",
         animeYear:2020,
