@@ -936,5 +936,11 @@ export default [
     animeName:'Working!!',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/25879/Working'
+  },
+  {
+    animeEmoji:'🍜💪🥪',
+    animeName:'Mirai no Mirai',
+    animeYear:2018,
+    animeLink:'https://myanimelist.net/anime/36936/Mirai_no_Mirai'
   }
 ];
