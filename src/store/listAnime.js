@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🌂🏻👺🏯👊👊👨",
+        animeName:"Innocence",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/468/Innocence"
+  },
+  {
         animeEmoji:" 🌂🏻💥👺🏯👊👊👨",
         animeName:"Fugou Keiji: Balance:Unlimited",
         animeYear:2020,
