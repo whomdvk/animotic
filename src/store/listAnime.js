@@ -894,5 +894,11 @@ export default [
     animeName:'Mahouka Koukou no Rettousei',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
+  },
+  {
+    animeEmoji:'⚔️👑❤️',
+    animeName:'DanMachi / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka',
+    animeYear:2015,
+    animeLink:'https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka'
   }
 ];
