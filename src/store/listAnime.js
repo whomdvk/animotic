@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🌂👊🙍🏻👊👨",
+        animeName:"Psycho-Pass",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/13601/Psycho-Pass"
+  },
+  {
         animeEmoji:" 🔪 🌂👊🙍🏻👊👨",
         animeName:"Death Note",
         animeYear:2006,
