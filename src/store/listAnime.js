@@ -4,6 +4,12 @@ export default [
         animeName:"Fugou Keiji: Balance:Unlimited",
         animeYear:2020,
         animeLink:"https://myanimelist.net/anime/41120/Fugou_Keiji__Balance_Unlimited"
+   },
+  {
+        animeEmoji:" 🌂🏻👨",
+        animeName:"Rail Wars!",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/23309/Rail_Wars"
   },
   {
         animeEmoji:" 🌂🏻👊👨",
