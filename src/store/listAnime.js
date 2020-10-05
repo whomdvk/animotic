@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🌂🏻👊👨",
+        animeName:"Monster",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/19/Monster"
+  },
+  {
         animeEmoji:" 🌂👊🙍🏻👊👨",
         animeName:"Psycho-Pass",
         animeYear:2012,
