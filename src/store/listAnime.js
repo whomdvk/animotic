@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🔪 🌂👊🙍🏻👊👨",
+        animeName:"Death Note",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/1535/Death_Note"
+  },
+  {
         animeEmoji:" 🔪 🌂👊🙍🏻",
         animeName:"Yuukoku no Moriarty",
         animeYear:2020,
