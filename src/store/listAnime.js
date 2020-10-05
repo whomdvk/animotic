@@ -1062,5 +1062,11 @@ export default [
     animeName:'Weathering with You',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
+  },
+  {
+    animeEmoji:'👧🏼🍟🥤🍜',
+    animeName:'Himouto! Umaru-chan',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/28825/Himouto_Umaru-chan'
   }
 ];
