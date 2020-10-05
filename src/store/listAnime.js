@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🌂🏻👨",
+        animeName:"Rail Wars!",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/23309/Rail_Wars"
+  },
+  {
         animeEmoji:" 🌂🏻👊👨",
         animeName:"Monster",
         animeYear:2004,
