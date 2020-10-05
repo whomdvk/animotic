@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 👺🏯👊👨",
+        animeName:"Cop Craft",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38940/Cop_Craft"
+  },
+  {
         animeEmoji:" 🌂🏻👺🏯👊👨",
         animeName:"Jin-Rou",
         animeYear:2000,
