@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🌂🏻👺🏯👊👨",
+        animeName:"Jin-Rou",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/570/Jin-Rou"
+  },
+  {
         animeEmoji:" 🌂🏻👺🏯👊👊👨",
         animeName:"Innocence",
         animeYear:2004,
