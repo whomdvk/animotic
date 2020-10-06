@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 👺🚀 🐱 🤖 📠 👽👩🏼🎆👨",
+        animeName:"Mushishi Zoku Shou",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou"
+  {
+  {
         animeEmoji:" 👺👩🏼🎆👨",
         animeName:"Hajime no Ippo",
         animeYear:2000,
