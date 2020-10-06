@@ -1,5 +1,10 @@
 export default [
   {
+        animeEmoji:" 👺👩🏼🎆👨",
+        animeName:"Hajime no Ippo",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/263/Hajime_no_Ippo"
+  {
         animeEmoji:" 👺👊👩🏼🎆👨",
         animeName:"Cowboy Bebop",
         animeYear:1998,
