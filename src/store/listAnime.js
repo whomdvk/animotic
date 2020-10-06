@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 👺👊👩🏼⏳🎆👨",
+        animeName:"Gintama",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/918/Gintama"
+  },
+  {
         animeEmoji:" 👺🏯👊👩🏼⏳🎆👨",
         animeName:"Koe no Katachi",
         animeYear:2016,
