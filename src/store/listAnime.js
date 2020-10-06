@@ -1076,7 +1076,7 @@ export default [
     animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
   },
   {
-  animeEmoji:'🏃😮💪',
+  animeEmoji:'🏃😮💪😡',
   animeName:'Mekakucity Actors',
   animeYear:2014,
   animeLink:'https://myanimelist.net/anime/21603/Mekakucity_Actors'
