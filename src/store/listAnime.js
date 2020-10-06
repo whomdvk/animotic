@@ -1074,5 +1074,11 @@ export default [
     animeName:'Weathering with You',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
+  },
+  {
+  animeEmoji:'🏃😮💪',
+  animeName:'Mekakucity Actors',
+  animeYear:2014,
+  animeLink:'https://myanimelist.net/anime/21603/Mekakucity_Actors'
   }
 ];
