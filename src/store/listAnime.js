@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 👺👊👩🏼🎆👨",
+        animeName:"Cowboy Bebop",
+        animeYear:1998,
+        animeLink:"https://myanimelist.net/anime/1/Cowboy_Bebop"
+  },
+  {
         animeEmoji:" 👺👊👩🏼⏳🎆👨",
         animeName:"Gintama",
         animeYear:2006,
