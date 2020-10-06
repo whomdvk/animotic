@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 👺🚀 🤖 📠 👽👩🏼🎆👨",
+        animeName:"Vinland Saga",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37521/Vinland_Saga"
+  {
+  {
         animeEmoji:" 👺🚀 🐱 🤖 📠 👽👩🏼🎆👨",
         animeName:"Mushishi Zoku Shou",
         animeYear:2004,
