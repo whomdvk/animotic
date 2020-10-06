@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 👺🚀 📠",
+        animeName:"Natsume Yuujinchou Shi",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi"
+  {
+  {
         animeEmoji:" 👺🚀 🤖 📠🏼🎆👨",
         animeName:"Great Teacher Onizuka",
         animeYear:1999,
