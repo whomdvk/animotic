@@ -1,6 +1,144 @@
 export default [
   {
-    animeEmoji: '💪👊👨‍🦳😻',
+        animeEmoji:" 👺🏯👊👨",
+        animeName:"Cop Craft",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38940/Cop_Craft"
+  },
+  {
+        animeEmoji:" 🌂🏻👺🏯👊👨",
+        animeName:"Jin-Rou",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/570/Jin-Rou"
+  },
+  {
+        animeEmoji:" 🌂🏻👺🏯👊👊👨",
+        animeName:"Innocence",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/468/Innocence"
+  },
+  {
+        animeEmoji:" 🌂🏻💥👺🏯👊👊👨",
+        animeName:"Fugou Keiji: Balance:Unlimited",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41120/Fugou_Keiji__Balance_Unlimited"
+   },
+  {
+        animeEmoji:" 🌂🏻👨",
+        animeName:"Rail Wars!",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/23309/Rail_Wars"
+  },
+  {
+        animeEmoji:" 🌂🏻👊👨",
+        animeName:"Monster",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/19/Monster"
+  },
+  {
+        animeEmoji:" 🌂👊🙍🏻👊👨",
+        animeName:"Psycho-Pass",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/13601/Psycho-Pass"
+  },
+  {
+        animeEmoji:" 🔪 🌂👊🙍🏻👊👨",
+        animeName:"Death Note",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/1535/Death_Note"
+  },
+  {
+        animeEmoji:" 🔪 🌂👊🙍🏻",
+        animeName:"Yuukoku no Moriarty",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40911/Yuukoku_no_Moriarty"
+  },
+  {
+        animeEmoji:" 🔪 🌂👊️👊🙍🏻",
+        animeName:"Hanyou no Yashahime: Sengoku Otogizoushi",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41911/Hanyou_no_Yashahime__Sengoku_Otogizoushi"
+  },
+  {
+        animeEmoji:" 🙍🏻 🔪 🌂👊️👊🙍🏻",
+        animeName:"Majo no Tabitabi",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40571/Majo_no_Tabitabi"
+  },
+  {
+        animeEmoji:" 🙍🏻 🔪 🌂👊️",
+        animeName:"Enen no Shouboutai: Ni no Shou",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou"
+  },
+  {
+        animeEmoji:" 🙍🏻 🔪 🌂",
+        animeName:"Detective Conan",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/235/Detective_Conan"
+  },
+  {
+        animeEmoji:" 🙍👊🙍🏻 🔪 🌂",
+        animeName:"Majo no Tabitabi",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40571/Majo_no_Tabitabi"
+  },
+  {
+        animeEmoji:" 🙍👊🏻‍♂🙍🏻 🔪 🌂",
+        animeName:"Higurashi no Naku Koro ni",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41006/Higurashi_no_Naku_Koro_ni_2020"
+  },
+  {
+        animeEmoji:" 🙍👊️ ️ 🙍🏻‍♂🙍🏻 🔪 🌂",
+        animeName:"Jujutsu Kaisen (TV)",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV"
+  },
+  {
+        animeEmoji:" ⚔️ 🙍👊️ ️ 🙍🏻‍♂🙍🏻",
+        animeName:"Zero no Tsukaima",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/1195/Zero_no_Tsukaima"
+  },
+  {
+        animeEmoji:" ⚔️ 🙍👊",
+        animeName:"Nisekoi",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/18897/Nisekoi"
+  },
+  {
+        animeEmoji:" ⚔️ 🙍🏼‍😻",
+        animeName:"Fullmetal Alchemist: Brotherhood",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
+  },
+  {
+        animeEmoji:" ⚔️ 🙍🏻‍♂😻",
+        animeName:"Deadman Wonderland",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/6880/Deadman_Wonderland"
+  },
+  {
+        animeEmoji:" ⚔️ 🙍🏻‍♂💨",
+        animeName:"Hellsing Ultimate",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/777/Hellsing_Ultimate"
+  },
+  {
+        animeEmoji:" ⚔️ 🙍🏻‍♂",
+        animeName:"Yakusoku no Neverland",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37779/Yakusoku_no_Neverland"
+  },
+  {
+        animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
+        animeName:"Another",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/11111/Another"
+  },
+  {
+    animeEmoji: '💪👊👨‍🦳',
     animeName: '3-gatsu no Lion',
     animeYear: 2016,
     animeLink: 'https://myanimelist.net/anime/31646/3-gatsu_no_Lion',
@@ -912,5 +1050,29 @@ export default [
     animeName:'DanMachi / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka',
     animeYear:2015,
     animeLink:'https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka'
+  },
+  {
+    animeEmoji:'🤖💪⛩',
+    animeName:'Hello World',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/38816/Hello_World'
+  },
+  {
+    animeEmoji:'🍜💪🥪',
+    animeName:'Working!!',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/25879/Working'
+  },
+  {
+    animeEmoji:'🍜💪🍼',
+    animeName:'Mirai no Mirai',
+    animeYear:2018,
+    animeLink:'https://myanimelist.net/anime/36936/Mirai_no_Mirai'
+  },
+  {
+    animeEmoji:'🎆💪🌧',
+    animeName:'Weathering with You',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
   }
 ];
