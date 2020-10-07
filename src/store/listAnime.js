@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" 🚀🐱‍♀️⏱ 📠",
+        animeName:"Air Gear",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/857/Air_Gear"
+  {
+  {
         animeEmoji:" 👺🚀🐱‍♀️⏱ 📠",
         animeName:"Megalo Box",
         animeYear:2011,
