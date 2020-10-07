@@ -1,40 +1,46 @@
 export default [
   {
+        animeEmoji:" 🚀🐱‍♀🐱️⏱ 📠",
+        animeName:"Slam Dunk",
+        animeYear:1993,
+        animeLink:"https://myanimelist.net/anime/170/Slam_Dunk"
+  },
+  {
         animeEmoji:" 🚀🐱‍♀️⏱ 📠",
         animeName:"Air Gear",
         animeYear:2006,
         animeLink:"https://myanimelist.net/anime/857/Air_Gear"
-  {
+  },
   {
         animeEmoji:" 👺🚀🐱‍♀️⏱ 📠",
         animeName:"Megalo Box",
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/36563/Megalo_Box"
+  },
   {
-  {
-        animeEmoji:" 👺🚀🐱🔫🧙‍♀️⏱ 📠",
+        animeEmoji:" 👺🚀🔫🧙‍♀️⏱ 📠",
         animeName:"Chihayafuru",
         animeYear:2018,
         animeLink:"https://myanimelist.net/anime/10800/Chihayafuru"
-  {
+  },
   {
         animeEmoji:" 👺🚀 🤖 📠🏼🎆👨",
         animeName:"Great Teacher Onizuka",
         animeYear:1999,
         animeLink:"https://myanimelist.net/anime/245/Great_Teacher_Onizuka"
-  {
+  },
   {
         animeEmoji:" 👺🚀 🤖 📠 👽👩🏼🎆👨",
         animeName:"Vinland Saga",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/37521/Vinland_Saga"
-  {
+  },
   {
         animeEmoji:" 👺🚀 🐱 🤖 📠 👽👩🏼🎆👨",
         animeName:"Mushishi Zoku Shou",
         animeYear:2004,
         animeLink:"https://myanimelist.net/anime/21939/Mushishi_Zoku_Shou"
-  {
+  },
   {
         animeEmoji:" 👺👩🏼🎆👨",
         animeName:"Hajime no Ippo",
