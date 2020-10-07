@@ -1,8 +1,14 @@
 export default [
   {
+        animeEmoji:" 👺🚀🐱‍♀️⏱ 📠",
+        animeName:"Megalo Box",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/36563/Megalo_Box"
+  {
+  {
         animeEmoji:" 👺🚀🐱🔫🧙‍♀️⏱ 📠",
         animeName:"Chihayafuru",
-        animeYear:2011,
+        animeYear:2018,
         animeLink:"https://myanimelist.net/anime/10800/Chihayafuru"
   {
   {
