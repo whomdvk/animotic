@@ -1,9 +1,9 @@
 export default [
   {
-        animeEmoji:" 👺🚀 📠",
-        animeName:"Natsume Yuujinchou Shi",
-        animeYear:2012,
-        animeLink:"https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi"
+        animeEmoji:" 👺🚀🐱🔫🧙‍♀️⏱ 📠",
+        animeName:"Chihayafuru",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/10800/Chihayafuru"
   {
   {
         animeEmoji:" 👺🚀 🤖 📠🏼🎆👨",
