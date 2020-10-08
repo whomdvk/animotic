@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻👩🏼👦🏻‍📠",
+        animeName:"Ansatsu Kyoushitsu",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu"
+  },
+  {
         animeEmoji:" ️👦🏻👩🏼👦🏻‍♀🐱️📠",
         animeName:"Koe no Katachi",
         animeYear:2016,
