@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻👩🏼👦🏻🚀🐱‍♀🐱️⏱ 📠",
+        animeName:"Words Worth Omake",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/43016/Words_Worth_Omake"
+  },
+  {
         animeEmoji:" 🚀🐱‍♀🐱️⏱ 📠",
         animeName:"Slam Dunk",
         animeYear:1993,
