@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻👩🏼👦🏻🚀🐱‍♀🐱️📠",
+        animeName:"Shigatsu wa Kimi no Uso",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso"
+  },
+  {
         animeEmoji:" ️👦🏻👩🏼👦🏻🚀🐱‍♀🐱️⏱ 📠",
         animeName:"Words Worth Omake",
         animeYear:2009,
