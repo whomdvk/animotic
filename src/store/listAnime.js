@@ -1,5 +1,17 @@
 export default [
   {
+        animeEmoji:" ️👦🏻👩⚡️🏼‍♀️🧚👦🏻‍📠",
+        animeName:"Magic Kaito",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/8310/Magic_Kaito"
+  },
+  {
+        animeEmoji:" ️👦🏻👩⚡️🙍🏻‍♂️🙍🏼‍♀️🧚👦🏻‍📠",
+        animeName:"Minami-ke Omatase",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/14575/Minami-ke_Omatase"
+  },
+  {
         animeEmoji:" ️👦🏻👩⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️🏼👦🏻‍📠",
         animeName:"Tsuki ga Kirei Special",
         animeYear:2017,
