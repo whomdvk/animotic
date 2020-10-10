@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻👩⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️🏼👦🏻‍📠",
+        animeName:"Tsuki ga Kirei Special",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/36539/Tsuki_ga_Kirei_Special"
+  },
+  {
         animeEmoji:" ️👦🏻👩🏼👦🏻‍📠",
         animeName:"Ansatsu Kyoushitsu",
         animeYear:2015,
