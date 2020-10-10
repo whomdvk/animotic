@@ -1,9 +1,9 @@
 export default [
   {
-        animeEmoji:" ️👦🏻👩⚡️👦🏻‍📠",
-        animeName:"One Punch Man Specials",
-        animeYear:2015,
-        animeLink:"https://myanimelist.net/anime/31772/One_Punch_Man_Specials"
+        animeEmoji:" ️👦🏻👩⚡️📠",
+        animeName:"Death Note: Rewrite",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/2994/Death_Note__Rewrite"
   },
   {
         animeEmoji:" ️👦🏻👩⚡️🏼‍♀️🧚👦🏻‍📠",
