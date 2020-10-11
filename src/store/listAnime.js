@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻🏻⚡️📠",
+        animeName:"Super Mario-kun",
+        animeYear:1991,
+        animeLink:"https://myanimelist.net/manga/10314/Super_Mario-kun"
+  },
+  {
         animeEmoji:" ️👦🏻👩🍜🏻⚡️📠",
         animeName:"Ousama Game The Animation",
         animeYear:2017,
