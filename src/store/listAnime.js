@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻👩🍜🏻⚡️📠",
+        animeName:"Ousama Game The Animation",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/36027/Ousama_Game_The_Animation"
+  },
+  {
         animeEmoji:" ️👦🏻👩🍜👑👍🏻⚡️📠",
         animeName:"Bakemonogatari",
         animeYear:2009,
