@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻👩🍜🦊🍂👑👍🏻⚡️📠",
+        animeName:"Clannad",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/2167/Clannad"
+  },
+  {
         animeEmoji:" ️👦🏻👩⚡️📠",
         animeName:"Death Note: Rewrite",
         animeYear:2007,
