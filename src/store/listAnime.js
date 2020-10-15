@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🧚🔫⚔👦🔍🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
+        animeName:"No Game No Life: Zero",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/33674/No_Game_No_Life__Zero"
+  },
+  {
         animeEmoji:"💪🧚🏫♀️🏻️🧚👦",
         animeName:"Banana Fish",
         animeYear:2018,
