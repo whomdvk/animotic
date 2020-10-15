@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🏻🤴🏻️🧚👦⚔️🏫🏻️🏻🤴🏻🦸‍🛡👦",
+        animeName:"Bakemono no Ko",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/28805/Bakemono_no_Ko"
+  },
+  {
         animeEmoji:"💪🏻🤴🏻️🧚👦⚔️🏫🏻️🏻🤴🏻🦸‍🛡🧚👦",
         animeName:"One Outs",
         animeYear:2008,
