@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦📠🏻‍♂⚔️👑💪🛡🏫♀️🧚👦",
+        animeName:"Mushishi",
+        animeYear:2005,
+        animeLink:"https://myanimelist.net/anime/457/Mushishi"
+  },
+  {
         animeEmoji:" ️👦📠🏻‍♂♀️🧚👦",
         animeName:"Vinland Saga",
         animeYear:2019,
@@ -1224,7 +1230,7 @@ export default [
     animeLink:'https://myanimelist.net/anime/10793/Guilty_Crown'
   },
   {
-    animeEmoji:'⚔️👑💪🛡🏫',
+    animeEmoji:'',
     animeName:'Mahouka Koukou no Rettousei',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
