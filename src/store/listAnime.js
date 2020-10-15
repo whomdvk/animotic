@@ -1,5 +1,17 @@
 export default [
   {
+        animeEmoji:" ️👦📠💪🏫♀️🏻‍♀️🧚👦",
+        animeName:"Kingdom 2nd Season",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/17389/Kingdom_2nd_Season"
+  },
+  {
+        animeEmoji:" ️👦📠💪🛡👑💪🛡🏫♀️🏻‍♀️🧚👦",
+        animeName:"Violet Evergarden",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/33352/Violet_Evergarden"
+  },
+  {
         animeEmoji:" ️👦📠💪🛡♂⚔️👑💪🛡🏫♀️🏻‍♀️🧚👦",
         animeName:"Ping Pong the Animation",
         animeYear:2014,
