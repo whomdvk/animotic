@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦📠🏻‍♂♀️🧚👦",
+        animeName:"Vinland Saga",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37521/Vinland_Saga"
+  },
+  {
         animeEmoji:" ️👦📠🏻‍♂️🙍🏼‍♀️🧚👦",
         animeName:"One Punch Man Specials",
         animeYear:2015,
