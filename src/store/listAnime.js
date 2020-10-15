@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦📠🏻‍♂💪🛡🏫♀️🧚👦",
+        animeName:"Great Teacher Onizuka",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/457/Mushishi"
+  },
+  {
         animeEmoji:" ️👦📠🏻‍♂⚔️👑💪🛡🏫♀️🧚👦",
         animeName:"Mushishi",
         animeYear:2005,
