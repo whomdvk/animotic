@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪👦🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
+        animeName:"Shirobako",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/25835/Shirobako"
+  },
+  {
         animeEmoji:"💪👦🔍🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
         animeName:"Shinsekai yori",
         animeYear:2012,
