@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🏻🤴🏻️🏻️🤴🏻🦸‍🛡👦",
+        animeName:"Natsume Yuujinchou",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/4081/Natsume_Yuujinchou"
+  },
+  {
         animeEmoji:"💪🏻🤴🏻️🏻️🏻🤴🏻🦸‍🛡👦",
         animeName:"Gintama: Shiroyasha Koutan",
         animeYear:2008,
