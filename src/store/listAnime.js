@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🧚🏫♀️🏻️🧚👦",
+        animeName:"Banana Fish",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/36649/Banana_Fish"
+  },
+  {
         animeEmoji:"💪🧚🏫♀️🏻🏫♀️🧚👦",
         animeName:"Major S6",
         animeYear:2010,
