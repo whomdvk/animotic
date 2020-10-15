@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🏻🤴🏻️🧚👦⚔️🏫🏻️🏻🤴🏻🦸‍🛡🧚👦",
+        animeName:"One Outs",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/5040/One_Outs"
+  },
+  {
         animeEmoji:"💪🔐♀️🏻️🧚👦",
         animeName:"Mobile Suit Gundam: The Origin",
         animeYear:2018,
@@ -18,7 +24,7 @@ export default [
         animeLink:"https://myanimelist.net/anime/5081/Bakemonogatari"
   },
   {
-        animeEmoji:"💪👦🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
+        animeEmoji:"💪👦🔐🏻🤴🏻⚔️🏫♀️🏻",
         animeName:"Katanagatari",
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/6594/Katanagatari"
