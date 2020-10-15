@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦♂️🙍🏼‍🏼📠🏻‍♂️🙍🏼‍♀️🧚👦",
+        animeName:"Pokemon: The Origin",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/20159/Pokemon__The_Origin"
+  },
+  {
         animeEmoji:" ️👦♂️🙍🏼‍♀️🧚👦🏼👩🏼📠🏻‍♂️🙍🏼‍♀️🧚👦",
         animeName:"Lupin III vs. Detective Conan",
         animeYear:2009,
