@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦🏫🍜💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Luo Xiao Hei Zhan Ji",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/40211/Luo_Xiao_Hei_Zhan_Ji_Movie"
+  },
+  {
         animeEmoji:"🤴👦⚔️🏫🍜💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Tsubasa: Tokyo Revelations",
         animeYear:2008,
