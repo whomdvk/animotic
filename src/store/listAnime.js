@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"📠💪🏫♀️🏻‍♀️🧚👦",
+        animeName:"Kiseijuu: Sei no Kakuritsu",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu"
+  },
+  {
         animeEmoji:" ️👦📠💪🏫♀️🏻‍♀️🧚👦",
         animeName:"Kingdom 2nd Season",
         animeYear:2013,
