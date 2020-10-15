@@ -1,5 +1,17 @@
 export default [
   {
+        animeEmoji:"🤴🏻️🧚👦🏫🍜💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Versailles no Bara",
+        animeYear:1979,
+        animeLink:"https://myanimelist.net/anime/338/Versailles_no_Bara"
+  },
+  {
+        animeEmoji:"🤴🏻️🧚👦⚔️🏫🍜💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Tonari no Totoro",
+        animeYear:1998,
+        animeLink:"https://myanimelist.net/anime/523/Tonari_no_Totoro"
+  },
+  {
         animeEmoji:"🤴🏻️🏻️🤴🏻🦸‍🛡👦",
         animeName:"Nodame Cantabile",
         animeYear:2007,
