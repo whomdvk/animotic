@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🧚👦🔍🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
+        animeName:"Romeo no Aoi Sora",
+        animeYear:21995,
+        animeLink:"https://myanimelist.net/anime/2559/Romeo_no_Aoi_Sora"
+  },
+  {
         animeEmoji:"💪🧚🔫⚔👦🔍🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
         animeName:"No Game No Life: Zero",
         animeYear:2017,
