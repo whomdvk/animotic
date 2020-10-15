@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🏻🤴🏻️👦⚔️🏫🏻️🏻🤴🏻🦸‍🛡👦",
+        animeName:"Kemono no Souja Erin",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/5420/Kemono_no_Souja_Erin"
+  },
+  {
         animeEmoji:"💪🏻🤴🏻️🧚👦⚔️🏫🏻️🏻🤴🏻🦸‍🛡👦",
         animeName:"Bakemono no Ko",
         animeYear:2015,
