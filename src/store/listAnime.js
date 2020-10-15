@@ -1,5 +1,10 @@
 export default [
   {
+        animeEmoji:" ️👦🏼👩🏼🎨🏻🏻⚡️📠",
+        animeName:"Spesial anime: Durarara!! Specials",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/8408/Durarara_Specials
+  {
         animeEmoji:" ️👦🏼👊🏼🏻👩🏼🎨🏻🏻⚡️📠",
         animeName:"Aria the Avvenire",
         animeYear:2015,
