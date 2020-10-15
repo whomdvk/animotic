@@ -1,6 +1,12 @@
 export default [
   {
         animeEmoji:"💪🛡🏫♀️🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
+        animeName:"Zoku Owarimonogatari",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/36999/Zoku_Owarimonogatari"
+  },
+  {
+        animeEmoji:"💪🛡🏫♀️🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
         animeName:"Violet Evergarden Movie",
         animeYear:2020,
         animeLink:"https://myanimelist.net/anime/37987/Violet_Evergarden_Movie"
