@@ -1,10 +1,16 @@
 export default [
   {
+        animeEmoji:" ️👦🏼👩🏼🏻🏻⚡️📠",
+        animeName:"Kuroko no Basket: Tip Off",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/16916/Kuroko_no_Basket__Tip_Off"
+  },
+  {
         animeEmoji:" ️👦🏼👩🏼🎨🏻🏻⚡️📠",
         animeName:"Spesial anime: Durarara!! Specials",
         animeYear:2010,
-        animeLink:"https://myanimelist.net/anime/8408/Durarara_Specials
-  {
+        animeLink:"https://myanimelist.net/anime/8408/Durarara_Specials"
+  },
         animeEmoji:" ️👦🏼👊🏼🏻👩🏼🎨🏻🏻⚡️📠",
         animeName:"Aria the Avvenire",
         animeYear:2015,
