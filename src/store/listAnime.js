@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻👩⚡️🙍🏻‍♂️🙍🏼‍♀️🧚👦🏼👩🏼📠🏻👩⚡️🙍🏻‍♂️🙍🏼‍♀️🧚👦",
+        animeName:"Danshi Koukousei no Nichijou Specials",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/12893/Danshi_Koukousei_no_Nichijou_Specials"
+  },
+  {
         animeEmoji:" ️👦🏼👩🏼📠",
         animeName:"K-On!!: Keikaku!",
         animeYear:2011,
