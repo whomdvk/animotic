@@ -1,6 +1,12 @@
 export default [
   {
         animeEmoji:" ️👦📠🏻‍♂💪🛡🏫♀️🧚👦",
+        animeName:"Suzumiya Haruhi no Shoushitsu",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/7311/Suzumiya_Haruhi_no_Shoushitsu"
+  },
+  {
+        animeEmoji:" ️👦📠🏻‍♂💪🛡🏫♀️🧚👦",
         animeName:"Great Teacher Onizuka",
         animeYear:2000,
         animeLink:"https://myanimelist.net/anime/457/Mushishi"
