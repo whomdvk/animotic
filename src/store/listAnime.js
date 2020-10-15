@@ -1,6 +1,12 @@
 export default [
   {
-        animeEmoji:" ️👦🏼👩🏼🏻🏻⚡️📠",
+        animeEmoji:" ️👦🏼👩🏼📠",
+        animeName:"K-On!!: Keikaku!",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/9734/K-On__Keikaku"
+  },
+  {
+        animeEmoji:" ️👦🏼👩🏼🏻🏻⚡️",
         animeName:"Kuroko no Basket: Tip Off",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/16916/Kuroko_no_Basket__Tip_Off"
