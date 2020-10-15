@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦📠💪🛡♂⚔️👑💪🛡🏫♀️🏻‍♀️🧚👦",
+        animeName:"Ping Pong the Animation",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/22135/Ping_Pong_the_Animation"
+  },
+  {
         animeEmoji:" ️👦📠🏻‍♀️🧚👦",
         animeName:"Natsume Yuujinchou Roku",
         animeYear:2017,
