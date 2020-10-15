@@ -1,7 +1,12 @@
 export default [
   {
+        animeEmoji:" ️👦♂️🙍🏼‍♀️🧚👦🏼👩🏼📠🏻‍♂️🙍🏼‍♀️🧚👦",
+        animeName:"Lupin III vs. Detective Conan",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/6115/Lupin_III_vs_Detective_Conan"
+  },
+  {
         animeEmoji:" ️👦🏻👩⚡️🙍🏻‍♂️🙍🏼‍♀️🧚👦🏼👩🏼📠🏻‍♂️🙍🏼‍♀️🧚👦",
-        animeName:"K-On!: Live House!",
         animeName:"K-On!: Live House!",
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/6862/K-On__Live_House"
