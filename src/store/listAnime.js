@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴🏻️🏻️🤴🏻🦸‍🛡👦",
+        animeName:"Nodame Cantabile",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/1698/Nodame_Cantabile"
+  },
+  {
         animeEmoji:"💪🏻🤴🏻️🏻️🤴🏻🦸‍🛡👦",
         animeName:"Natsume Yuujinchou",
         animeYear:2008,
