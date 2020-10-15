@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦🏫💪🏻️🤴🏻🦸‍🛡🏫",
+        animeName:"Stranger: Mukou Hadan",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/2418/Stranger__Mukou_Hadan"
+  },
+  {
         animeEmoji:"🤴👦🏫💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Beck",
         animeYear:2004,
