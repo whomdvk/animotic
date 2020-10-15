@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦📠🏻‍♂️🙍🏼‍♀️🧚👦",
+        animeName:"One Punch Man Specials",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/31772/One_Punch_Man_Specials"
+  },
+  {
         animeEmoji:" ️👦♂️🙍🏼‍🏼📠🏻‍♂️🙍🏼‍♀️🧚👦",
         animeName:"Pokemon: The Origin",
         animeYear:2013,
