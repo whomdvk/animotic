@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦🏫💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Beck",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/57/Beck"
+  },
+  {
         animeEmoji:"🤴👦🏫🍜💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Luo Xiao Hei Zhan Ji",
         animeYear:2018,
