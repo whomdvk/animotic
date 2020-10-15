@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
+        animeName:"Boku dake ga Inai Machi",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi"
+  },
+  {
         animeEmoji:"💪🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
         animeName:"Great Pretender",
         animeYear:2020,
