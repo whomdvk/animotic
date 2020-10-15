@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏼👊🏼🏻👩🏼🎨🏻🏻⚡️📠",
+        animeName:"Aria the Avvenire",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/29893/Aria_the_Avvenire"
+  },
+  {
         animeEmoji:" ️👦🏻🏻⚡️📠",
         animeName:"Super Mario-kun",
         animeYear:1991,
