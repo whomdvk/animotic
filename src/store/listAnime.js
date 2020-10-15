@@ -1,8 +1,14 @@
 export default [
   {
+        animeEmoji:"💪👦🔍🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
+        animeName:"Shinsekai yori",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/13125/Shinsekai_yori"
+  },
+  {
         animeEmoji:"💪🧚👦🔍🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
         animeName:"Romeo no Aoi Sora",
-        animeYear:21995,
+        animeYear:1995,
         animeLink:"https://myanimelist.net/anime/2559/Romeo_no_Aoi_Sora"
   },
   {
