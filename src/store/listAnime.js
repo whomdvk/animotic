@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🧚🏫♀️🏻🏫♀️🧚👦",
+        animeName:"Major S6",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/7655/Major_S6"
+  },
+  {
         animeEmoji:"💪🧚🏫♀️🏻🏫♀️🏻‍♀️🧚👦",
         animeName:"Saenai Heroine no Sodatekata Fine",
         animeYear:2019,
