@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🏻🤴🏻️🏻️🏻🤴🏻🦸‍🛡👦",
+        animeName:"Gintama: Shiroyasha Koutan",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/6945/Gintama__Shiroyasha_Koutan"
+  },
+  {
         animeEmoji:"💪🏻🤴🏻️🏫🏻️🏻🤴🏻🦸‍🛡👦",
         animeName:"Kino no Tabi: The Beautiful World",
         animeYear:2003,
