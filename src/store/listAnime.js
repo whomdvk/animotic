@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦🏫💪🏻️🤴🏻🏫",
+        animeName:"Neon Genesis Evangelion",
+        animeYear:1996,
+        animeLink:"https://myanimelist.net/anime/30/Neon_Genesis_Evangelion"
+  },
+  {
         animeEmoji:"🤴👦🏫💪🏻️🤴🏻🦸‍🛡🏫",
         animeName:"Stranger: Mukou Hadan",
         animeYear:2007,
