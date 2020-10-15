@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🧚🏫♀️🏻🏫♀️🏻‍♀️🧚👦",
+        animeName:"Saenai Heroine no Sodatekata Fine",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/36885/Saenai_Heroine_no_Sodatekata_Fine"
+  },
+  {
         animeEmoji:"💪🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
         animeName:"Boku dake ga Inai Machi",
         animeYear:2016,
