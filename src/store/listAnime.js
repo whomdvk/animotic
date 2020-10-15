@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦📠🏻‍♀️🧚👦",
+        animeName:"Natsume Yuujinchou Roku",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/34591/Natsume_Yuujinchou_Roku"
+  },
+  {
         animeEmoji:" ️👦📠🏻‍♂💪🛡🏫♀️🧚👦",
         animeName:"Suzumiya Haruhi no Shoushitsu",
         animeYear:2010,
