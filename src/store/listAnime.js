@@ -1,6 +1,12 @@
 export default [
   {
         animeEmoji:"💪👦🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
+        animeName:"Katanagatari",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/6594/Katanagatari"
+  },
+  {
+        animeEmoji:"💪👦🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
         animeName:"Shirobako",
         animeYear:2014,
         animeLink:"https://myanimelist.net/anime/25835/Shirobako"
