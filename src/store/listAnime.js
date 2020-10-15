@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🏻🤴🏻️🏫🏻️🏻🤴🏻🦸‍🛡👦",
+        animeName:"Kino no Tabi: The Beautiful World",
+        animeYear:2003,
+        animeLink:"https://myanimelist.net/anime/486/Kino_no_Tabi__The_Beautiful_World"
+  },
+  {
         animeEmoji:"💪🏻🤴🏻️👦⚔️🏫🏻️🏻🤴🏻🦸‍🛡👦",
         animeName:"Kemono no Souja Erin",
         animeYear:2009,
