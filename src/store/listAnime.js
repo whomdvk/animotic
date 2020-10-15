@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
+        animeName:"Great Pretender",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40052/Great_Pretender"
+  },
+  {
         animeEmoji:"💪🛡🏫🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
         animeName:"Grand Blue",
         animeYear:2018,
