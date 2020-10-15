@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪👦🔐♀️🏻️🧚👦",
+        animeName:"Major: World Series",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/11917/Major__World_Series"
+  },
+  {
         animeEmoji:"💪👦🔐🤴🏻⚔️🏫♀️🏻️🧚👦",
         animeName:"Bakemonogatari",
         animeYear:2009,
