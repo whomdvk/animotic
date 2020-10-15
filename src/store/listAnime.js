@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🛡🏫♀️🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
+        animeName:"Violet Evergarden Movie",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/37987/Violet_Evergarden_Movie"
+  },
+  {
         animeEmoji:"💪🏫♀️🏻‍♀️🧚👦",
         animeName:"Mononoke",
         animeYear:2007,
