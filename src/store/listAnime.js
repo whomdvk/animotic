@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪👦🔐🤴🏻⚔️🏫♀️🏻️🧚👦",
+        animeName:"Bakemonogatari",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/5081/Bakemonogatari"
+  },
+  {
         animeEmoji:"💪👦🔐🏻🤴🏻⚔️🏫♀️🏻️🧚👦",
         animeName:"Katanagatari",
         animeYear:2010,
