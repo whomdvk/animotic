@@ -1,6 +1,18 @@
 export default [
   {
-        animeEmoji:"💪🛡🏫♀️🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
+        animeEmoji:"💪🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
+        animeName:"Great Pretender",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/40052/Great_Pretender"
+  },
+  {
+        animeEmoji:"💪🛡🏫🏻‍♀️🧚🏫♀️🏻‍♀️📠🏫♀️🏻‍♀️🧚👦",
+        animeName:"Grand Blue",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/37105/Grand_Blue"
+  },
+  {
+        animeEmoji:"💪🛡🏫♀️🏻‍♀️🧚🏫♀️🏫♀️🏻‍♀️🧚👦",
         animeName:"Zoku Owarimonogatari",
         animeYear:2018,
         animeLink:"https://myanimelist.net/anime/36999/Zoku_Owarimonogatari"
