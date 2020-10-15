@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🔐♀️🏻️🧚👦",
+        animeName:"Mobile Suit Gundam: The Origin",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/10937/Mobile_Suit_Gundam__The_Origin"
+  },
+  {
         animeEmoji:"💪👦🔐♀️🏻️🧚👦",
         animeName:"Major: World Series",
         animeYear:2011,
