@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"💪🏫♀️🏻‍♀️🧚👦",
+        animeName:"Mononoke",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/2246/Mononoke"
+  },
+  {
         animeEmoji:"📠💪🏫♀️🏻‍♀️🧚👦",
         animeName:"Kiseijuu: Sei no Kakuritsu",
         animeYear:2015,
