@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦⚔️🏫🍜💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Tsubasa: Tokyo Revelations",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/2685/Tsubasa__Tokyo_Revelations"
+  },
+  {
         animeEmoji:"🤴🏻️🧚👦⚔️🏫🍜💪🏻️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Tonari no Totoro",
         animeYear:1998,
