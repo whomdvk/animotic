@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴🛡👦👦🏻🤴🦸‍🛡👦️️🏫",
+        animeName:"Tsukimonogatari",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/28025/Tsukimonogatari"
+  },
+  {
         animeEmoji:"🤴🏻🛡👦👦🏻🤴🦸‍🛡👦️️🏫",
         animeName:"Princess Tutu",
         animeYear:2002,
