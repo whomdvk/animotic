@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻🦸‍🛡👦🏻️👦🏫💪🏻️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Magi: The Kingdom of Magic",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic"
+  },
+  {
         animeEmoji:"🤴👦🏫💪🏻️🏫",
         animeName:"Youjo Senki Movie",
         animeYear:2019,
