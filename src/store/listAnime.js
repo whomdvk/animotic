@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻🦸‍🏻🛡👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
+        animeName:"Kaze no Stigma",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/1691/Kaze_no_Stigma"
+  },
+  {
         animeEmoji:"🤴👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
         animeName:"Hellsing",
         animeYear:2002,
