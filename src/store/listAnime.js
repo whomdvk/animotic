@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"🤴🏻️🦸🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
+        animeName:"Nodame Cantabile: Paris-hen",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/4477/Nodame_Cantabile__Paris-hen"
+  },
+  {
+        anime
         animeEmoji:"🤴🏻️🦸‍👦🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Kanata no Astra",
         animeYear:2019,
