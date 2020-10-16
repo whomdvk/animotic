@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴🏻🛡👦👦🏻🤴🦸‍🛡👦️️🏫",
+        animeName:"Princess Tutu",
+        animeYear:2002,
+        animeLink:"https://myanimelist.net/anime/721/Princess_Tutu"
+  },
+  {
         animeEmoji:"🤴🏻👦🏻🛡👦👦🏻🤴🦸‍🛡👦️️🏫",
         animeName:"Kuzu no Honkai",
         animeYear:2017,
