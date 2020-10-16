@@ -1,15 +1,15 @@
 export default [
   {
-        animeEmoji:"🤴👦🤴👦🏻🤴🦸‍🛡🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
-        animeName:"Kakegurui××",
-        animeYear:2019,
-        animeLink:"https://myanimelist.net/anime/37086/Kakegurui%C3%97%C3%97"
-  },
-  {
         animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
         animeName:"Darker than Black: Ryuusei no Gemini",
         animeYear:2009,
         animeLink:"https://myanimelist.net/anime/6573/Darker_than_Black__Ryuusei_no_Gemini"
+  },
+  {
+        animeEmoji:"🤴👦🤴👦🏻🤴🦸‍🛡🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
+        animeName:"Kakegurui××",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37086/Kakegurui%C3%97%C3%97"
   },
   {
         animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
