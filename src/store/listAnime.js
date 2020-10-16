@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻️️🦸👦🏻️️️️👦🤴",
+        animeName:"Gintama: Dai Hanseikai",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/10643/Gintama__Dai_Hanseikai",
+  },
+  {
+        anime
         animeEmoji:"👦🏻️️🤴🦸👦🏻️️️️🤴🦸👦🤴",
         animeName:"Black Lagoon",
         animeYear:2006,
