@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦🏻🤴🦸‍🛡👦️️🏫",
+        animeName:"Hyouka",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/12189/Hyouka"
+  },
+  {
         animeEmoji:"🤴🛡👦👦🏻🤴🦸‍🛡👦️️🏫",
         animeName:"Tsukimonogatari",
         animeYear:2014,
