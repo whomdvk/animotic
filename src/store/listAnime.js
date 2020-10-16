@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴🏻👦🏻🛡👦🏻️🛡👦🏻🤴🦸‍🛡👦👦🏻👦🏻️️️🏫",
+        animeName:"Nisekoi",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/27787/Nisekoi_"
+  },
+  {
         animeEmoji:"🤴️🤴🏻👦🏻🛡👦🏻️🛡👦🏻🤴🦸‍🛡👦👦🏻👦🏻️️️🏫",
         animeName:"School Days",
         animeYear:2007,
