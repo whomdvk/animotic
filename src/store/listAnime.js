@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
+        animeName:"Paprika",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/1943/Paprika"
+  },
+  {
         animeEmoji:"🤴👦👦🏻🤴🦸‍🛡👦👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
         animeName:"Majo no Takkyuubin",
         animeYear:1989,
