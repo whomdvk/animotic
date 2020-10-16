@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Nodame Cantabile: Finale",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/5690/Nodame_Cantabile__Finale"
+  },
+  {
         animeEmoji:"🤴️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Gyakkyou Burai Kaiji: Ultimate Survivor",
         animeYear:2007,
