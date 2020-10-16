@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
+        animeName:"https://myanimelist.net/anime/270/Hellsing",
+        animeYear:2002,
+        animeLink:"https://myanimelist.net/anime/270/Hellsing"
+  },
+  {
         animeEmoji:"🤴️🤴👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
         animeName:"Yuru Camp",
         animeYear:2018,
