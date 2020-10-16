@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦🏫💪🏻️🏫",
+        animeName:"Youjo Senki Movie",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37055/Youjo_Senki_Movie"
+  },
+  {
         animeEmoji:"🤴👦🏫💪🏻️🤴🏻🏫",
         animeName:"Neon Genesis Evangelion",
         animeYear:1996,
