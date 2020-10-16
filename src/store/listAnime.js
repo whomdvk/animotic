@@ -1,9 +1,34 @@
 export default [
   {
+        anime
         animeEmoji:"🤴🏻👦🏻️️🤴🦸‍👦🏻🤴🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Black Lagoon: The Second Barrage",
         animeYear:2006,
         animeLink:"https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage"
+  },
+  {
+        animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
+        animeName:"Darker than Black: Ryuusei no Gemini",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/6573/Darker_than_Black__Ryuusei_no_Gemini"
+  },
+  {
+        animeEmoji:"🤴👦🤴👦🏻🤴🦸‍🛡🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
+        animeName:"Kakegurui××",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37086/Kakegurui%C3%97%C3%97"
+  },
+  {
+        animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
+        animeName:"Paprika",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/1943/Paprika"
+  },
+  {
+        animeEmoji:"🤴👦👦🏻🤴🦸‍🛡👦👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
+        animeName:"Majo no Takkyuubin",
+        animeYear:1989,
+        animeLink:"https://myanimelist.net/anime/512/Majo_no_Takkyuubin"
   },
   {
         animeEmoji:"🤴👦🏻🤴🦸‍🛡👦🏫",
