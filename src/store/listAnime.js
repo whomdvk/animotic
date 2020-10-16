@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦👦🏻🤴🦸‍🛡👦👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
+        animeName:"Majo no Takkyuubin",
+        animeYear:1989,
+        animeLink:"https://myanimelist.net/anime/512/Majo_no_Takkyuubin"
+  },
+  {
         animeEmoji:"🤴👦🏻🤴🦸‍🛡👦🏫",
         animeName:"Gin no Saji",
         animeYear:2013,
