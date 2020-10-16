@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️👦🏫💪🏻️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Redline",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/6675/Redline"
+  },
+  {
         animeEmoji:"🤴️🤴🏻👦🏫💪🏻️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Koukaku Kidoutai",
         animeYear:1995,
