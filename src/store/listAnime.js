@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🤴🏻🦸‍🛡👦🏻️🛡👦🏻️🏫",
+        animeName:"Toaru Kagaku no Railgun T",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/38481/Toaru_Kagaku_no_Railgun_T"
+  },
+  {
         animeEmoji:"🤴️🤴️️🤴🏻👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🤴🏻🦸‍🛡👦🏻️🛡👦🏻️🏫",
         animeName:"Shokugeki no Souma: Ni no Sara",
         animeYear:2016,
