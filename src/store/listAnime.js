@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
+        animeName:"Special A",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/3470/Special_A"
+  },
+  {
         animeEmoji:"🤴️🤴🏻🦸‍🏻🛡👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
         animeName:"Kaze no Stigma",
         animeYear:2007,
