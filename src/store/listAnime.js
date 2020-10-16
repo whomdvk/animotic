@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"🤴🏻️🦸‍👦🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
+        animeName:"Kanata no Astra",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/39198/Kanata_no_Astra"
+  },
+  {
+        anime
         animeEmoji:"🤴🏻️🦸‍👦🏻🤴🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Shoujo Kakumei Utena",
         animeYear:1997,
