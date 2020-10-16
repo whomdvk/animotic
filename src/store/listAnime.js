@@ -1,5 +1,17 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻👦🏻🤴🦸‍🛡👦👦🏻️🏫",
+        animeName:"Gantz",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/384/Gantz"
+  },
+  {
+        animeEmoji:"🤴️🤴🏻👦🏻️️🤴🦸‍🛡👦🏻👦🏻️🏫",
+        animeName:"Special A",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/3470/Special_A"
+  },
+  {
         animeEmoji:"🤴️🤴🏻👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
         animeName:"Special A",
         animeYear:2008,
