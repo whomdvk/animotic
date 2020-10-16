@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
+        animeName:"Darker than Black: Ryuusei no Gemini",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/6573/Darker_than_Black__Ryuusei_no_Gemini"
+  },
+  {
         animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
         animeName:"Paprika",
         animeYear:2006,
