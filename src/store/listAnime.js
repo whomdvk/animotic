@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴🏻👦🏻🛡👦🏻️🛡👦🏻🤴🦸‍🛡👦️️🏫",
+        animeName:"Little Witch Academia",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/33489/Little_Witch_Academia_TV"
+  },
+  {
         animeEmoji:"🤴🏻👦🏻🛡👦🏻️🛡👦🏻🤴🦸‍🛡👦👦🏻👦🏻️️️🏫",
         animeName:"Nisekoi",
         animeYear:2015,
