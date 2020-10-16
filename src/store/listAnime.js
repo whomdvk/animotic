@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"🤴🏻️🦸🦸‍🛡👦🤴",
+        animeName:"Kuroshitsuji: Book of Circus",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/22145/Kuroshitsuji__Book_of_Circus",
+  },
+  {
+        anime
         animeEmoji:"🤴🏻️🦸🦸‍🛡👦🏻🤴🦸‍🏫",
         animeName:"Akira",
         animeYear:1988,
