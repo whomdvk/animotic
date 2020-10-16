@@ -1,7 +1,7 @@
 export default [
   {
         animeEmoji:"🤴👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
-        animeName:"https://myanimelist.net/anime/270/Hellsing",
+        animeName:"Hellsing",
         animeYear:2002,
         animeLink:"https://myanimelist.net/anime/270/Hellsing"
   },
