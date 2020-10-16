@@ -1,10 +1,17 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻️️🤴🦸👦🏻️️🤴🦸👦🏻️️🤴🦸👦🤴",
+        animeName:"Kingdom",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/12031/Kingdom",
+  },
+  {
+        anime
         animeEmoji:"👦🏻️️🤴🦸👦🏻️️🤴🦸🦸‍🛡👦🏻️️🤴🦸👦🤴",
-        animeName:"Hoozuki no Reitetsu",
-        animeYear:2014,
-        animeLink:"https://myanimelist.net/anime/20431/Hoozuki_no_Reitetsu",
+        animeName:"Juuni Kokuki",
+        animeYear:2002,
+        animeLink:"https://myanimelist.net/anime/153/Juuni_Kokuki",
   },
   {
         anime
