@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻👦🏻️👦🏫💪🏻️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Hajime no Ippo: Champion Road",
+        animeYear:2003,
+        animeLink:"https://myanimelist.net/anime/264/Hajime_no_Ippo__Champion_Road"
+  },
+  {
         animeEmoji:"🤴️🤴🏻🦸‍🛡👦🏻️👦🏫💪🏻️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Magi: The Kingdom of Magic",
         animeYear:2013,
