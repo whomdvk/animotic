@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴🏻👦🏻🛡👦👦🏻🤴🦸‍🛡👦️️🏫",
+        animeName:"Kuzu no Honkai",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/32949/Kuzu_no_Honkai"
+  },
+  {
         animeEmoji:"🤴🏻👦🏻🛡👦🏻️🛡👦🏻🤴🦸‍🛡👦️️🏫",
         animeName:"Little Witch Academia",
         animeYear:2017,
