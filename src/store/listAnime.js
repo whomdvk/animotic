@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️👦🏫️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Given",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/39533/Given"
+  },
+  {
         animeEmoji:"🤴️👦🏫💪🏻️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Redline",
         animeYear:2009,
