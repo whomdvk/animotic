@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴🏻👦🏻️️🤴🦸‍👦🏻🤴🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
+        animeName:"Black Lagoon: The Second Barrage",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage"
+  },
+  {
         animeEmoji:"🤴👦🏻🤴🦸‍🛡👦🏫",
         animeName:"Gin no Saji",
         animeYear:2013,
