@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"🤴🏻️🦸🦸‍🛡👦🏻️️🤴🦸‍🏫",
+        animeName:"Genshiken OVA",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/1813/Genshiken_OVA"
+  },
+  {
+        anime
         animeEmoji:"🤴🏻️🦸🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Nodame Cantabile: Paris-hen",
         animeYear:2008,
