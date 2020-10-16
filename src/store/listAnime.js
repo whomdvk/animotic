@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻️️🤴🦸👦🏻️️️️🤴🦸👦🤴",
+        animeName:"Black Lagoon",
+        animeYear:2006,
+        animeLink:"https://myanimelist.net/anime/889/Black_Lagoon",
+  },
+  {
+        anime
         animeEmoji:"👦🏻️️🤴🦸👦🏻️️🤴🦸👦🏻️️🤴🦸👦🤴",
         animeName:"Kingdom",
         animeYear:2013,
