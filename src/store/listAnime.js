@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"🤴🏻️️🤴🦸‍👦🏻🤴🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
+        animeName:"Karakai Jouzu no Takagi-san 2",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2"
+  },
+  {
+        anime
         animeEmoji:"🤴🏻👦🏻️️🤴🦸‍👦🏻🤴🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Black Lagoon: The Second Barrage",
         animeYear:2006,
