@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Gyakkyou Burai Kaiji: Ultimate Survivor",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor"
+  },
+  {
         animeEmoji:"🤴️🏫️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Ashita no Joe",
         animeYear:1970,
