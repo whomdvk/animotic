@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻👦🏻🛡👦🏻️🛡👦🏻🤴🦸‍🛡👦👦🏻👦🏻️️️🏫",
+        animeName:"School Days",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/2476/School_Days"
+  },
+  {
         animeEmoji:"🤴️🤴🏻👦🏻🤴🦸‍🛡👦👦🏻️🏫",
         animeName:"Gantz",
         animeYear:2004,
