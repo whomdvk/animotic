@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴️️🤴🏻👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🤴🏻🦸‍🛡👦🏻️🛡👦🏻️🏫",
+        animeName:"Shokugeki no Souma: Ni no Sara",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/32282/Shokugeki_no_Souma__Ni_no_Sara"
+  },
+  {
         animeEmoji:"🤴️🤴️️🤴🏻🦸‍🛡👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🤴🏻🦸‍🛡👦🏻️🛡👦🏻️🏫",
         animeName:"Toradora!",
         animeYear:2008,
