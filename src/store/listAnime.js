@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻👦🏫💪🏻️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Koukaku Kidoutai",
+        animeYear:1995,
+        animeLink:"https://myanimelist.net/anime/43/Koukaku_Kidoutai"
+  },
+  {
         animeEmoji:"🤴️🤴🏻👦🏻️👦🏫💪🏻️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Hajime no Ippo: Champion Road",
         animeYear:2003,
