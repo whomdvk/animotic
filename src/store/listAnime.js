@@ -1,5 +1,17 @@
 export default [
   {
+        animeEmoji:"🤴️🤴👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🦸‍🛡👦🏻️🛡👦🏻️🏫",
+        animeName:"Yuru Camp",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/34798/Yuru_Camp%E2%96%B3"
+  },
+  {
+        animeEmoji:"🤴️🤴👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🤴🏻🦸‍🛡👦🏻️🛡👦🏻️🏫",
+        animeName:"Toaru Kagaku no Railgun T",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/38481/Toaru_Kagaku_no_Railgun_T"
+  },
+  {
         animeEmoji:"🤴️🤴👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🤴🏻🦸‍🛡👦🏻️🛡👦🏻️🏫",
         animeName:"Toaru Kagaku no Railgun T",
         animeYear:2020,
