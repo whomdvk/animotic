@@ -1,87 +1,94 @@
 export default [
   {
         anime
+        animeEmoji:"🤴🏻️🦸🦸‍🛡👦🏻🤴🦸‍🏫",
+        animeName:"Akira",
+        animeYear:1988,
+        animeLink:"https://myanimelist.net/anime/47/Akira",
+  },
+  {
+        anime
         animeEmoji:"🤴🏻️🦸🦸‍🛡👦🏻️️🤴🦸‍🏫",
         animeName:"Genshiken OVA",
         animeYear:2008,
-        animeLink:"https://myanimelist.net/anime/1813/Genshiken_OVA"
+        animeLink:"https://myanimelist.net/anime/1813/Genshiken_OVA",
   },
   {
         anime
         animeEmoji:"🤴🏻️🦸🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Nodame Cantabile: Paris-hen",
         animeYear:2008,
-        animeLink:"https://myanimelist.net/anime/4477/Nodame_Cantabile__Paris-hen"
+        animeLink:"https://myanimelist.net/anime/4477/Nodame_Cantabile__Paris-hen",
   },
   {
         anime
         animeEmoji:"🤴🏻️🦸‍👦🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Kanata no Astra",
         animeYear:2019,
-        animeLink:"https://myanimelist.net/anime/39198/Kanata_no_Astra"
+        animeLink:"https://myanimelist.net/anime/39198/Kanata_no_Astra",
   },
   {
         anime
         animeEmoji:"🤴🏻️🦸‍👦🏻🤴🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Shoujo Kakumei Utena",
         animeYear:1997,
-        animeLink:"https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena"
+        animeLink:"https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena",
   },
   {
         anime
         animeEmoji:"🤴🏻️️🤴🦸‍👦🏻🤴🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Karakai Jouzu no Takagi-san 2",
         animeYear:2019,
-        animeLink:"https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2"
+        animeLink:"https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2",
   },
   {
         anime
         animeEmoji:"🤴🏻👦🏻️️🤴🦸‍👦🏻🤴🦸‍🛡👦🏻👦🏻️️🤴🦸‍🏫",
         animeName:"Black Lagoon: The Second Barrage",
         animeYear:2006,
-        animeLink:"https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage"
+        animeLink:"https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage",
   },
   {
         animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
         animeName:"Darker than Black: Ryuusei no Gemini",
         animeYear:2009,
-        animeLink:"https://myanimelist.net/anime/6573/Darker_than_Black__Ryuusei_no_Gemini"
+        animeLink:"https://myanimelist.net/anime/6573/Darker_than_Black__Ryuusei_no_Gemini",
   },
   {
         animeEmoji:"🤴👦🤴👦🏻🤴🦸‍🛡🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
         animeName:"Kakegurui××",
         animeYear:2019,
-        animeLink:"https://myanimelist.net/anime/37086/Kakegurui%C3%97%C3%97"
+        animeLink:"https://myanimelist.net/anime/37086/Kakegurui%C3%97%C3%97",
   },
   {
         animeEmoji:"🤴👦👦🏻🤴👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
         animeName:"Paprika",
         animeYear:2006,
-        animeLink:"https://myanimelist.net/anime/1943/Paprika"
+        animeLink:"https://myanimelist.net/anime/1943/Paprika",
   },
   {
         animeEmoji:"🤴👦👦🏻🤴🦸‍🛡👦👦🏻🤴🦸‍🛡👦👦👦🏻🤴🦸‍🛡👦🏫👦🏻🤴🦸‍🛡👦👦",
         animeName:"Majo no Takkyuubin",
         animeYear:1989,
-        animeLink:"https://myanimelist.net/anime/512/Majo_no_Takkyuubin"
+        animeLink:"https://myanimelist.net/anime/512/Majo_no_Takkyuubin",
   },
   {
         animeEmoji:"🤴👦🏻🤴🦸‍🛡👦🏫",
         animeName:"Gin no Saji",
         animeYear:2013,
-        animeLink:"https://myanimelist.net/anime/16918/Gin_no_Saji"
+        animeLink:"https://myanimelist.net/anime/16918/Gin_no_Saji",
   },
   {
         animeEmoji:"🤴👦🏻🤴🦸‍🛡👦️️🏫",
         animeName:"Hyouka",
         animeYear:2012,
-        animeLink:"https://myanimelist.net/anime/12189/Hyouka"
+        animeLink:"https://myanimelist.net/anime/12189/Hyouka",
   },
   {
         animeEmoji:"🤴🛡👦👦🏻🤴🦸‍🛡👦️️🏫",
         animeName:"Tsukimonogatari",
         animeYear:2014,
-        animeLink:"https://myanimelist.net/anime/28025/Tsukimonogatari"
+        animeLink:"https://myanimelist.net/anime/28025/Tsukimonogatari",
   },
   {
         animeEmoji:"🤴🏻🛡👦👦🏻🤴🦸‍🛡👦️️🏫",
