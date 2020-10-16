@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴👦🏻🤴🦸‍🛡👦🏫",
+        animeName:"Gin no Saji",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/16918/Gin_no_Saji"
+  },
+  {
         animeEmoji:"🤴👦🏻🤴🦸‍🛡👦️️🏫",
         animeName:"Hyouka",
         animeYear:2012,
