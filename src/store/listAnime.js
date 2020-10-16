@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴️️🤴🏻🦸‍🛡👦🏻️🤴🏻🦸‍🏻🛡👦🏻️️🤴🤴🏻🦸‍🛡👦🏻️🛡👦🏻️🏫",
+        animeName:"Toradora!",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/4224/Toradora"
+  },
+  {
         animeEmoji:"🤴️🤴🏻🛡👦🏻️️🤴🛡👦🏻️🏫",
         animeName:"Sennen Joyuu",
         animeYear:2012,
@@ -18,7 +24,7 @@ export default [
         animeLink:"https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor"
   },
   {
-        animeEmoji:"🤴️🏫️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeEmoji:"🤴️🏫🛡👦🏻️️🏫",
         animeName:"Ashita no Joe",
         animeYear:1970,
         animeLink:"https://myanimelist.net/anime/2402/Ashita_no_Joe"
