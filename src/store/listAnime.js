@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🤴🏻🛡👦🏻️️🤴🛡👦🏻️🏫",
+        animeName:"Sennen Joyuu",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/1033/Sennen_Joyuu"
+  },
+  {
         animeEmoji:"🤴️🤴🏻🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Nodame Cantabile: Finale",
         animeYear:2010,
