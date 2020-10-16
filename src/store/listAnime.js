@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"🦸🦸‍🛡👦🤴",
+        animeName:"Hoozuki no Reitetsu",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/20431/Hoozuki_no_Reitetsu",
+  },
+  {
+        anime
         animeEmoji:"🤴🏻️🦸🦸‍🛡👦🤴",
         animeName:"Kuroshitsuji: Book of Circus",
         animeYear:2014,
