@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"🤴️🏫️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
+        animeName:"Ashita no Joe",
+        animeYear:1970,
+        animeLink:"https://myanimelist.net/anime/2402/Ashita_no_Joe"
+  },
+  {
         animeEmoji:"🤴️👦🏫️️🤴🏻🦸‍🛡👦🏻️️🤴🏻🦸‍🛡👦🏻️🏫",
         animeName:"Given",
         animeYear:2019,
