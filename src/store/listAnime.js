@@ -1,5 +1,11 @@
 export default [
-
+  {
+        anime
+        animeEmoji:"👦🏻🐲 👊 🌌🏻🐲 👊️️️️👦🤴🐲 👊 🌌",
+        animeName:"Akudama Drive", 
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41433/Akudama_Drive",
+  },
   {
         anime
         animeEmoji:"👦🏻🐲 👊🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
