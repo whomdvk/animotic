@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻🏻👦🍜🏻👑👍🏻👑👍🏻👑👍🏻🏻🏻",
+        animeName:"Tenkuu no Escaflowne ",
+        animeYear:1996,
+        animeLink:"https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne",
+  },
+  {
         animeEmoji:" ️👑👍🏻🏻👦🍜🏻👑👍🏻🏻👑👍🏻👑👍🏻🏻🏻",
         animeName:"Colorful ",
         animeYear:2010,
