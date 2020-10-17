@@ -1,7 +1,13 @@
 export default [
 {
+        animeEmoji:" ️👦🏻🏻⚡️️📠",
+        animeName:"91 Days",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/32998/91_Days"
+  },
+{
         animeEmoji:" ️👦🏻🏻⚡👩🍜🏻⚡️️📠",
-        animeName:"JormungandWatch Episode Video",
+        animeName:"Jormungand",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/12413/Jormungand"
   },
