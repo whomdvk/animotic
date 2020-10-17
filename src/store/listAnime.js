@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻🏻🍜🏻🏻👑👍🏻🏻🏻⚡",
+        animeName:"InuYasha",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/249/InuYasha",
+  },
+  {
         animeEmoji:" ️👦🏻🏻🏻🍜🏻🏻👑👍🏻🏻🏻⚡",
         animeName:"Cowboy Bebop",
         animeYear:1988,
