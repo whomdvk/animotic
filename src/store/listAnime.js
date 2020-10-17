@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑🏻👦🍜🏻👑👍🏻👑👍🏻👑👍🏻🏻🏻",
+        animeName:"Tales of the Abyss",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/4884/Tales_of_the_Abyss",
+  },
+  {
         animeEmoji:" ️👑👍🏻🏻👦🍜🏻👑👍🏻👑👍🏻👑👍🏻🏻🏻",
         animeName:"Tenkuu no Escaflowne ",
         animeYear:1996,
