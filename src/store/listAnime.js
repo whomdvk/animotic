@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻🏻👦🍜🏻👑👍🏻🏻👑👍🏻👑👍🏻🏻🏻",
+        animeName:"Colorful ",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/8142/Colorful_Movie",
+  },
+  {
         animeEmoji:" ️👦🍜🏻👑👍🏻🏻",
         animeName:"Kakumeiki Valvrave",
         animeYear:2013,
@@ -18,7 +24,7 @@ export default [
         animeLink:"https://myanimelist.net/anime/249/InuYasha",
   },
   {
-        animeEmoji:" ️👦🏻🏻🏻🍜🏻🏻👑👍🏻🏻🏻⚡",
+        animeEmoji:" ️👦🏻🏻🏻🍜🏻👑👍🏻🏻🏻⚡",
         animeName:"Cowboy Bebop",
         animeYear:1988,
         animeLink:"https://myanimelist.net/anime/1/Cowboy_Bebop",
