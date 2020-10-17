@@ -1,5 +1,11 @@
 export default [
 {
+        animeEmoji:" ️👦🏻🏻🍜👑👍🏻⚡",
+        animeName:"Baby Steps",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/21185/Baby_Steps"
+  },
+{
         animeEmoji:" ️👦🏻🏻🍜👑👍🏻⚡️️📠",
         animeName:"Michiko to Hatchin",
         animeYear:2008,
