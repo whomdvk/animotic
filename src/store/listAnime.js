@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻🐲 👊🌌🐲 👊🐲👊️️️️🐲 ️️️🐲👊 🌌",
+        animeName:"Fruits Basket", 
+        animeYear:2001,
+        animeLink:"https://myanimelist.net/anime/120/Fruits_Basket",
+  },
+  {
+        anime
         animeEmoji:"👦🏻🐲 👊 🌌🏻🐲👊️️️️🐲 ️️️🐲👊 🌌",
         animeName:"Machikado Mazoku", 
         animeYear:2019,
