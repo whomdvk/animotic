@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👦🏻🏻🍜🏻👑👍🏻🏻🏻⚡",
+        animeName:"Kyoukaisenjou no Horizon",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/10456/Kyoukaisenjou_no_Horizon",
+  },
+  {
         animeEmoji:" ️👦🏻🏻🍜🏻🏻👑👍🏻🏻🏻⚡",
         animeName:"InuYasha",
         animeYear:2000,
