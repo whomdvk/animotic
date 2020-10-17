@@ -1,4 +1,10 @@
 export default [
+{
+        animeEmoji:" ️👦🏻🏻⚡👩🍜🏻⚡️️📠",
+        animeName:"JormungandWatch Episode Video",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/12413/Jormungand"
+  },
   {
         anime
         animeEmoji:"👦🏻🐲 👊🌌🐲 👊🐲👊️️️️🐲 ️️️🐲👊 🌌",
