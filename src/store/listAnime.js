@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻🐲 👊🐲 👊 👦🐲 🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
+        animeName:"11eyes",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/6682/11eyes",
+  },
+  {
+        anime
         animeEmoji:"👦🏻🐲 👊🐲 👊 👦🐲 🐲 👊 🌌👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
         animeName:"Code:Breaker",
         animeYear:2012,
