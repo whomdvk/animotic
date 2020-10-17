@@ -1,27 +1,33 @@
 export default [
-{
+  {
+        animeEmoji:" ️👦🏻🏻🏻🍜🏻🏻👑👍🏻🏻🏻⚡",
+        animeName:"Cowboy Bebop",
+        animeYear:1988,
+        animeLink:"https://myanimelist.net/anime/1/Cowboy_Bebop",
+  },
+  {
         animeEmoji:" ️👦🏻🏻🍜👑👍🏻⚡",
         animeName:"Baby Steps",
         animeYear:2014,
-        animeLink:"https://myanimelist.net/anime/21185/Baby_Steps"
+        animeLink:"https://myanimelist.net/anime/21185/Baby_Steps",
   },
-{
+  {
         animeEmoji:" ️👦🏻🏻🍜👑👍🏻⚡️️📠",
         animeName:"Michiko to Hatchin",
         animeYear:2008,
-        animeLink:"https://myanimelist.net/anime/4087/Michiko_to_Hatchin"
+        animeLink:"https://myanimelist.net/anime/4087/Michiko_to_Hatchin",
   },
-{
+  {
         animeEmoji:" ️👦🏻🏻⚡️️📠",
         animeName:"91 Days",
         animeYear:2016,
-        animeLink:"https://myanimelist.net/anime/32998/91_Days"
+        animeLink:"https://myanimelist.net/anime/32998/91_Days",
   },
-{
+  {
         animeEmoji:" ️👦🏻🏻⚡👩🍜🏻⚡️️📠",
         animeName:"Jormungand",
         animeYear:2012,
-        animeLink:"https://myanimelist.net/anime/12413/Jormungand"
+        animeLink:"https://myanimelist.net/anime/12413/Jormungand",
   },
   {
         anime
