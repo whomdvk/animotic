@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻🐲 👊🐲 🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
+        animeName:"Sayonara Zetsubou Sensei", 
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/2605/Sayonara_Zetsubou_Sensei",
+  },
+  {
+        anime
         animeEmoji:"👦🏻🐲 👊🐲👦🐲 🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
         animeName:"Punch Line", 
         animeYear:2015,
