@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻🐲 👊🐲 👊 🌌 🌌️️🦸👦🐲 🐲 👊 🌌👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
+        animeName:"Shaman King",
+        animeYear:2001,
+        animeLink:"https://myanimelist.net/anime/154/Shaman_King",
+  },
+  {
+        anime
         animeEmoji:"👦🏻️️🦸👦🏻️️️️👦🤴",
         animeName:"Gintama: Dai Hanseikai",
         animeYear:2010,
