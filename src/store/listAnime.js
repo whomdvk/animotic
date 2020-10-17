@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻🐲 👊🐲👦🐲 🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
+        animeName:"Punch Line", 
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/28617/Punch_Line",
+  },
+  {
+        anime
         animeEmoji:"👦🏻🐲 👊🐲 👊 👦🐲 🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
         animeName:"11eyes",
         animeYear:2009,
