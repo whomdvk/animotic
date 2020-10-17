@@ -6,6 +6,11 @@ export default [
         animeYear:2020,
         animeLink:"https://myanimelist.net/anime/41433/Akudama_Drive",
   },
+        animeEmoji:"👦👊🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
+        animeName:"Magic Kaito 1412", 
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/25517/Magic_Kaito_1412",
+  },
   {
         anime
         animeEmoji:"👦🏻🐲 👊🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
