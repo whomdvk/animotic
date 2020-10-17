@@ -2,6 +2,13 @@ export default [
   {
         anime
         animeEmoji:"👦🏻🐲 👊 🌌🏻🐲 👊️️️️👦🤴🐲 👊 🌌",
+        animeName:"Junjou Romantica", 
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/3092/Junjou_Romantica",
+  },
+  {
+        anime
+        animeEmoji:"👦🏻🐲 👊 🌌🏻🐲 👊️️️️👦🤴🐲 👊 🌌",
         animeName:"Akudama Drive", 
         animeYear:2020,
         animeLink:"https://myanimelist.net/anime/41433/Akudama_Drive",
