@@ -1,10 +1,17 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻🐲 👊 🌌🏻🐲👊️️️️🐲 ️️️🐲👊 🌌",
+        animeName:"Machikado Mazoku", 
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/39071/Machikado_Mazoku",
+  },
+  {
+        anime
         animeEmoji:"👦🏻🐲 👊 🌌🏻🐲 👊️️️️👦🤴🐲 👊 🌌",
         animeName:"Junjou Romantica", 
         animeYear:2018,
-        animeLink:"https://myanimelist.net/anime/3092/Junjou_Romantica",
+        animeLink:"https://myanimelist.net/anime/41433/Akudama_Drive",
   },
   {
         anime
