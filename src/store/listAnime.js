@@ -1,10 +1,11 @@
 export default [
+
   {
         anime
         animeEmoji:"👦🏻🐲 👊🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
-        animeName:"Gake no Ue no Ponyo	", 
-        animeYear:2008,
-        animeLink:"https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo",
+        animeName:"Igano Kabamaru", 
+        animeYear:1983,
+        animeLink:"https://myanimelist.net/anime/2762/Igano_Kabamaru",
   },
   {
         anime
