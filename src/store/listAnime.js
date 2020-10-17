@@ -1,4 +1,11 @@
 export default [
+  {
+        anime
+        animeEmoji:"👦👊🐲 👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
+        animeName:"Magic Kaito 1412", 
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/25517/Magic_Kaito_1412",
+  },
 
   {
         anime
