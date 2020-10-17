@@ -1,9 +1,9 @@
 export default [
   {
-        animeEmoji:" ️👦🍜🏻👑👍🏻🏻🏻⚡",
-        animeName:"Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
-        animeYear:2012,
-        animeLink:"https://myanimelist.net/anime/8888/Code_Geass__Boukoku_no_Akito_1_-_Yokuryuu_wa_Maiorita",
+        animeEmoji:" ️👦🍜🏻👑👍🏻🏻",
+        animeName:"Kakumeiki Valvrave",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/16668/Kakumeiki_Valvrave",
   },
   {
         animeEmoji:" ️👦🏻🏻🍜🏻👑👍🏻🏻🏻⚡",
