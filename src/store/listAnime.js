@@ -1,6 +1,13 @@
 export default [
   {
         anime
+        animeEmoji:"👦🏻🐲 👊🐲 👊 👦🐲 🐲 👊 🌌👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
+        animeName:"Code:Breaker",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/11703/Code_Breaker",
+  },
+  {
+        anime
         animeEmoji:"👦🏻🐲 👊🐲 👊 🌌 🌌️️🦸👦🐲 🐲 👊 🌌👊 🌌🏻️️️️👦🤴🐲 👊 🌌",
         animeName:"Shaman King",
         animeYear:2001,
