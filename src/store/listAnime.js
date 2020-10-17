@@ -1,5 +1,11 @@
 export default [
 {
+        animeEmoji:" ️👦🏻🏻🍜👑👍🏻⚡️️📠",
+        animeName:"Michiko to Hatchin",
+        animeYear:2008,
+        animeLink:"https://myanimelist.net/anime/4087/Michiko_to_Hatchin"
+  },
+{
         animeEmoji:" ️👦🏻🏻⚡️️📠",
         animeName:"91 Days",
         animeYear:2016,
