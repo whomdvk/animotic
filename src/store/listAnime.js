@@ -1,4 +1,10 @@
-export default [ 
+export default [
+  {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻👑👍🏻🏻🏻",
+        animeName:"Kaijuu no Kodomo",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37981/Kaijuu_no_Kodomo",
+  }, 
   {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻👑👍🏻🏻🏻👑",
         animeName:"Cat's Eye",
