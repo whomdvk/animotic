@@ -1,4 +1,11 @@
-export default [  {
+export default [ 
+  {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻👑👍🏻🏻🏻👑",
+        animeName:"Cat's Eye",
+        animeYear:1983,
+        animeLink:"https://myanimelist.net/anime/2043/Cats_Eye",
+  }, 
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻👑👍🏻🏻🏻👑👍🏻👑",
         animeName:"The God of High School",
         animeYear:2020,
