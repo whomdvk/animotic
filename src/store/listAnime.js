@@ -1,5 +1,17 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👍🏻👑🏻🏻🏻",
+        animeName:"Uchuu Kaizoku Captain Herlock",
+        animeYear:1978,
+        animeLink:"https://myanimelist.net/anime/1000/Uchuu_Kaizoku_Captain_Herlock",
+  },
+  {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻🏻🏻",
+        animeName:"Tsuritama",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/12883/Tsuritama",
+  }, 
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻🏻🏻🏻",
         animeName:"Afro Samurai Movie",
         animeYear:2007,
