@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍👑👍🏻👑🏻👑👍🏻🏻🏻👑👍🏻👑",
+        animeName:"Sora yori mo Tooi Basho",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho",
+  },
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍👑👍🏻👑🏻👑👍🏻🏻👑👍🏻👑👍🏻👑",
         animeName:"Mirai Nikki",
         animeYear:2011,
