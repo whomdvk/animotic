@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑🏻👦👑👍🏻👑👍🏻🏻🏻",
+        animeName:"Flying Witch",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/31376/Flying_Witch",
+  },
+  {
         animeEmoji:" ️👑🏻👦🍜🏻👑👍🏻👑👍🏻👑👍🏻🏻🏻",
         animeName:"Tales of the Abyss",
         animeYear:2008,
