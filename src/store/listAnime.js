@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍👑👍🏻👑🏻👑👍🏻🏻👑👍🏻👑👍🏻👑",
+        animeName:"Mirai Nikki",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/10620/Mirai_Nikki",
+  },
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👦👍👑👍🏻👑🏻👑👍🏻🏻👑👍🏻👑👍🏻👑",
         animeName:"Plunderer",
         animeYear:2020,
