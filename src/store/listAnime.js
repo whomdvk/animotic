@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👦👍👑👍🏻👑🏻👑👍🏻🏻👑👍🏻👑👍🏻👑",
+        animeName:"Plunderer",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/37345/Plunderer",
+  },
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👦👍👑👍🏻👑👍🏻👑🏻👑👍🏻🏻👑👍🏻👑👍🏻👑",
         animeName:"Chikyuu Bouei Kigyou Dai-Guard",
         animeYear:1999,
