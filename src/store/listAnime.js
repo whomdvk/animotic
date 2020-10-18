@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👦👍👑👍🏻👑👍🏻👑🏻👑👍🏻🏻👑👍🏻👑👍🏻👑",
+        animeName:"Chikyuu Bouei Kigyou Dai-Guard",
+        animeYear:1999,
+        animeLink:"https://myanimelist.net/anime/1312/Chikyuu_Bouei_Kigyou_Dai-Guard",
+  },
+  {
         animeEmoji:" ️👑👦👍🏻👑👍🏻🏻",
         animeName:"Nanatsu no Taizai",
         animeYear:2014,
