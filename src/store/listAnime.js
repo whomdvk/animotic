@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👦👍🏻👑👍🏻🏻",
+        animeName:"Nanatsu no Taizai",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/41389/Tonikaku_Kawaii",
+  },
+  {
         animeEmoji:" ️👑👦👍🏻👑👍🏻🏻🏻",
         animeName:"Tonikaku Kawaii",
         animeYear:2020,
