@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻🏻🏻",
+        animeName:"Tsuritama",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/12883/Tsuritama",
+  }, 
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻🏻🏻🏻",
         animeName:"Afro Samurai Movie",
         animeYear:2007,
