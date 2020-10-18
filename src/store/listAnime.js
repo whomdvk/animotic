@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👦👍🏻👑👍🏻🏻🏻",
+        animeName:"Tonikaku Kawaii",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41389/Tonikaku_Kawaii",
+  },
+  {
         animeEmoji:" ️👑👦👑👍🏻👑👍🏻🏻🏻",
         animeName:"Majo no Tabitabi",
         animeYear:2020,
