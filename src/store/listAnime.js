@@ -1,4 +1,9 @@
-export default [
+export default [  {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻👑👍🏻🏻🏻👑👍🏻👑",
+        animeName:"The God of High School",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41353/The_God_of_High_School",
+  },
   {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍👑👍🏻👑🏻👑👍🏻🏻🏻👑👍🏻👑",
         animeName:"Sora yori mo Tooi Basho",
