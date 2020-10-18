@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻🏻🏻🏻",
+        animeName:"Afro Samurai Movie",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/13709/Afro_Samurai_Movie",
+  }, 
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👑👍🏻👑🏻👑👍🏻🏻🏻",
         animeName:"Kaijuu no Kodomo",
         animeYear:2019,
