@@ -1,9 +1,9 @@
 export default [
   {
-        animeEmoji:" ️👑👍🏻👑👍🏻👍🏻👑🏻🏻🏻",
-        animeName:"Minami-ke",
-        animeYear:2007,
-        animeLink:"https://myanimelist.net/anime/2963/Minami-ke",
+        animeEmoji:" ️👑👍🏻👑👍🏻👍🏻🏻🏻🏻",
+        animeName:"Tenkuu no Escaflowne",
+        animeYear:1996,
+        animeLink:"https://myanimelist.net/anime/182/Tenkuu_no_Escaflowne",
   },
   {
         animeEmoji:" ️👑👍🏻👑👍🏻👍🏻👑🏻🏻🏻",
