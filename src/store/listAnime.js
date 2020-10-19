@@ -1,6 +1,12 @@
 export default [
   {
         animeEmoji:" ️👑👍🏻👑👍🏻👍🏻👑🏻🏻🏻",
+        animeName:"Minami-ke",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/2963/Minami-ke",
+  },
+  {
+        animeEmoji:" ️👑👍🏻👑👍🏻👍🏻👑🏻🏻🏻",
         animeName:"Ajin 2nd Season",
         animeYear:2016,
         animeLink:"https://myanimelist.net/anime/33253/Ajin_2nd_Season",
