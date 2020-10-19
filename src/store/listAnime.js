@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👍🏻👍🏻👑🏻🏻🏻",
+        animeName:"Ajin 2nd Season",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/33253/Ajin_2nd_Season",
+  },
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👑👍🏻👑🏻🏻🏻",
         animeName:"Uchuu Kaizoku Captain Herlock",
         animeYear:1978,
