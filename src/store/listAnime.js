@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍🏻👑👦🍜👍🏻👍🏻🏻👦",
+        animeName:"Noragami",
+        animeYear:2014
+        animeLink:"https://myanimelist.net/anime/20507/Noragami",
+  },
+  {
         animeEmoji:" ️👑👍👦🍜🏻👑👦🍜👍🏻👍🏻🏻👦",
         animeName:"High School DxD",
         animeYear:2012
