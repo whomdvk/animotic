@@ -1,8 +1,14 @@
 export default [
   {
+        animeEmoji:" ️👑👍👦🍜🏻👑👦🍜👍🏻👍🏻🏻👦🍜",
+        animeName:"Uzaki-chan wa Asobitai!",
+        animeYear:2020,
+        animeLink:"https://myanimelist.net/anime/41226/Uzaki-chan_wa_Asobitai",
+  },
+  {
         animeEmoji:" ️👑👍👦🍜🏻👑👦🍜👍🏻👍🏻🏻👦🍜🏻🏻",
         animeName:"Kino no Tabi: The Beautiful World",
-        animeYear:1996,
+        animeYear:2003,
         animeLink:"https://myanimelist.net/anime/486/Kino_no_Tabi__The_Beautiful_World",
   },
   {
