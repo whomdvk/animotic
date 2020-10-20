@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍👦🍜🏻👑👦🍜👍🏻👍🏻🏻👦🍜🏻🏻",
+        animeName:"Kino no Tabi: The Beautiful World",
+        animeYear:1996,
+        animeLink:"https://myanimelist.net/anime/486/Kino_no_Tabi__The_Beautiful_World",
+  },
+  {
         animeEmoji:" ️👑👍🏻👑👍🏻👍🏻🏻🏻🏻",
         animeName:"Tenkuu no Escaflowne",
         animeYear:1996,
