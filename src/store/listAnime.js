@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👍👦🍜🏻👑👦🍜👍🏻👍🏻🏻👦",
+        animeName:"High School DxD",
+        animeYear:2012
+        animeLink:"https://myanimelist.net/anime/11617/High_School_DxD",
+  },
+  {
         animeEmoji:" ️👑👍👦🍜🏻👑👦🍜👍🏻👍🏻🏻👦🍜",
         animeName:"Uzaki-chan wa Asobitai!",
         animeYear:2020,
