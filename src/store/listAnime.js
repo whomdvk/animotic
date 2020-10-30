@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:"👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻",
+        animeName:"Yojouhan Shinwa Taikei",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
+  },
+  {
         animeEmoji:"👑👦🍜👍👦👦🍜👍🏻🍜👍🏻👍🏻🏻👦👦🍜👍🏻",
         animeName:"Ore Monogatari!!",
         animeYear:2015,
