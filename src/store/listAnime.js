@@ -1,12 +1,18 @@
 export default [
   {
-        animeEmoji:" ️👑👦🍜👍🏻👑👦👦🍜👍🏻🍜👍🏻👍🏻🏻👦👦🍜👍🏻",
+        animeEmoji:"👑👦🍜👍👦👦🍜👍🏻🍜👍🏻👍🏻🏻👦👦🍜👍🏻",
+        animeName:"Ore Monogatari!!",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/28297/Ore_Monogatari",
+  },
+  {
+        animeEmoji:"️👑👦🍜👍🏻👑👦👦🍜👍🏻🍜👍🏻👍🏻🏻👦👦🍜👍🏻",
         animeName:"Ookami Kodomo no Ame to Yuki",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki",
   },
   {
-        animeEmoji:" ️👑👦🍜👍🏻👍🏻👑👦👦🍜👍🏻🍜👍🏻👍🏻🏻👦👦🍜👍🏻",
+        animeEmoji:"👑👦🍜👍🏻👍🏻👑👦👦🍜👍🏻🍜👍🏻👍🏻🏻👦👦🍜👍🏻",
         animeName:"Toki wo Kakeru Shoujo",
         animeYear:2006,
         animeLink:"https://myanimelist.net/anime/2236/Toki_wo_Kakeru_Shoujo",
