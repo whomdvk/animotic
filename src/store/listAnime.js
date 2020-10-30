@@ -1,5 +1,11 @@
 export default [
   {
+        animeEmoji:" ️👑👦🍜👍🏻👍🏻👑👦👦🍜👍🏻🍜👍🏻👍🏻🏻👦👦🍜👍🏻",
+        animeName:"Toki wo Kakeru Shoujo",
+        animeYear:2006
+        animeLink:"https://myanimelist.net/anime/2236/Toki_wo_Kakeru_Shoujo",
+  },
+  {
         animeEmoji:" ️👑👍🏻👑👦🍜👍🏻👍🏻🏻👦",
         animeName:"Noragami",
         animeYear:2014
