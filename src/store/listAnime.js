@@ -2060,6 +2060,12 @@ export default [
     animeName:'Mirai no Mirai',
     animeYear:2018,
     animeLink:'https://myanimelist.net/anime/36936/Mirai_no_Mirai'
+  },{
+        anime
+        animeEmoji:"☠️🦠",
+        animeName:"Kiseijuu: Sei no Kakuritsu", 
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/39071/Machikado_Mazoku",
   },
   {
     animeEmoji:'🎆💪🌧',
