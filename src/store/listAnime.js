@@ -2067,4 +2067,10 @@ export default [
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
   }
+  {
+        animeEmoji:"🤴🤴🏻👦🏻🛡👦🏻🛡👦🏻🤴�‍🛡👦👦🏻👦🏻🏫",
+        animeName:"School Days",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/2476/School_Days",
+  },
 ];
