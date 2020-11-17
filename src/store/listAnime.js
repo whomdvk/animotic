@@ -2066,5 +2066,11 @@ export default [
     animeName:'Weathering with You',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
+  },
+    {
+    animeEmoji:'💞 🌊',
+    animeName:'Omoide No Marnie',
+    animeYear:2014,
+    animeLink:'https://myanimelist.net/anime/21557/Omoide_no_Marnie'
   }
 ];
