@@ -2044,6 +2044,12 @@ export default [
     animeLink:'https://myanimelist.net/anime/5785/G-9'
   },
   {
+    animeEmoji:'⚔️👑❤️',
+    animeName:'DanMachi / Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka',
+    animeYear:2015,
+    animeLink:'https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka'
+  },
+  {
     animeEmoji:'🤖💪⛩',
     animeName:'Hello World',
     animeYear:2019,
