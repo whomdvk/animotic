@@ -65,4 +65,10 @@ export default [
       animeYear:2017,
       animeLink:'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations'
   },
+  {
+      animeEmoji:'❤️😺👍👧',
+      animeName:'Nakitai Watashi wa Neko o Kaburu',
+      animeYear:2020,
+      animeLink:'https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu'
+  },
 ];
