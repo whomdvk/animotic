@@ -77,4 +77,10 @@ export default [
       animeYear:2019,
       animeLink:'https://myanimelist.net/anime/40295/Another_World'
   },
+  {
+      animeEmoji:'🎆🏻🪄',
+      animeName:'Hello World',
+      animeYear:2019,
+      animeLink:'https://myanimelist.net/anime/38816/Hello_World'
+  },
 ];
