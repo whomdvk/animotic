@@ -89,5 +89,10 @@ export default [
       animeYear:2011,
       animeLink:'https://myanimelist.net/anime/9253/Steins_Gate'
   },
-
+  {
+      animeEmoji:'🍜👍🏻👍🏻🏻👦🏻🪄',
+      animeName:'Gintama',
+      animeYear:2015,
+      animeLink:'https://myanimelist.net/anime/28977/Gintama'
+  },
 ];
