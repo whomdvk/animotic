@@ -41,4 +41,10 @@ export default [
     	animeYear:2019,
     	animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
   }
+  {
+    	animeEmoji:'🎆🍜🏻💪🌧',
+    	animeName:'Fullmetal Alchemist: Brotherhood',
+    	animeYear:2009,
+    	animeLink:'https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood'
+  }
 ];
