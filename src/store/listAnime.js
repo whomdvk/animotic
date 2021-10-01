@@ -82,5 +82,12 @@ export default [
       animeName:'Hello World',
       animeYear:2019,
       animeLink:'https://myanimelist.net/anime/38816/Hello_World'
+  }, 
+  {
+      animeEmoji:'🎆🍜👍🏻👍🏻🏻👦🏻🪄',
+      animeName:'SteinsGate',
+      animeYear:2011,
+      animeLink:'https://myanimelist.net/anime/9253/Steins_Gate'
   },
+
 ];
