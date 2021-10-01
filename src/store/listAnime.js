@@ -59,4 +59,10 @@ export default [
       animeYear:2007,
       animeLink:'https://myanimelist.net/anime/1735/Naruto__Shippuuden'
   },
+  {
+      animeEmoji:'🧒💪🍔',
+      animeName:'Boruto: Naruto The Next Generation',
+      animeYear:2017,
+      animeLink:'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations'
+  },
 ];
