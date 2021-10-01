@@ -40,17 +40,23 @@ export default [
     	animeName:'Weathering with You',
     	animeYear:2019,
     	animeLink:'https://myanimelist.net/anime/38826/Tenki_no_Ko'
-  }
+  },
   {
     	animeEmoji:'🎆🍜🏻💪🌧',
     	animeName:'Fullmetal Alchemist: Brotherhood',
     	animeYear:2009,
     	animeLink:'https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood'
-  }
+  },
   {
     	animeEmoji:'🎆🍜🏻💪🌧👍🏻🏻',
     	animeName:'Shingeki no Kyojin Season 3 Part 2',
     	animeYear:2019,
     	animeLink:'https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2'
-  }
+  },
+  {
+      animeEmoji:'🧒👨🍜💪',
+      animeName:'Naruto: Shippuuden',
+      animeYear:2007,
+      animeLink:'https://myanimelist.net/anime/1735/Naruto__Shippuuden'
+  },
 ];
