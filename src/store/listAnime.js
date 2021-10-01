@@ -47,4 +47,10 @@ export default [
     	animeYear:2009,
     	animeLink:'https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood'
   }
+  {
+    	animeEmoji:'🎆🍜🏻💪🌧👍🏻🏻',
+    	animeName:'Shingeki no Kyojin Season 3 Part 2',
+    	animeYear:2019,
+    	animeLink:'https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2'
+  }
 ];
