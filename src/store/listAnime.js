@@ -71,4 +71,10 @@ export default [
       animeYear:2020,
       animeLink:'https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu'
   },
+  {
+      animeEmoji:'🎆🔮👍🏻🏻',
+      animeName:'Another World',
+      animeYear:2019,
+      animeLink:'https://myanimelist.net/anime/40295/Another_World'
+  },
 ];
