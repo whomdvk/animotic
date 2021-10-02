@@ -125,4 +125,10 @@ export default [
       animeYear:2021,
       animeLink:'https://myanimelist.net/anime/42938/Fruits_Basket__The_Final'
   },
+  {
+      animeEmoji:'🤖👍🏻👦🏻👍🏻💖',
+      animeName:'Ginga Eiyuu Densetsu',
+      animeYear:1982,
+      animeLink:'https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu'
+  },
 ];
