@@ -155,4 +155,10 @@ export default [
       animeYear:2016,
       animeLink:'https://myanimelist.net/anime/32281/Kimi_no_Na_wa'
   },
+  {
+      animeEmoji:'👍🏻🏻👦👦👍🏻👦🏻👍🏻👦👦🏻',
+      animeName:'Shiguang Dailiren',
+      animeYear:2021,
+      animeLink:'https://myanimelist.net/anime/44074/Shiguang_Dailiren'
+  },
 ];
