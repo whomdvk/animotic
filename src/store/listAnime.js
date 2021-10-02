@@ -143,4 +143,16 @@ export default [
       animeYear:2008,
       animeLink:'https://myanimelist.net/anime/4181/Clannad__After_Story'
   },
+  {
+      animeEmoji:'🤜✊🤛👊5️⃣',
+      animeName:'Deatte 5-byou de Battle',
+      animeYear:2021,
+      animeLink:'https://myanimelist.net/anime/43814/Deatte_5-byou_de_Battle'
+  },
+  {
+      animeEmoji:'👩‍⚖🚚🧟‍♀️🎤🎶',
+      animeName:'Zombieland Saga',
+      animeYear:2018,
+      animeLink:'https://myanimelist.net/anime/37976/Zombieland_Saga'
+  }
 ];
