@@ -143,4 +143,10 @@ export default [
       animeYear:2008,
       animeLink:'https://myanimelist.net/anime/4181/Clannad__After_Story'
   },
+  {
+      animeEmoji:'👍🏻🏻👦👦👍🏻👦🏻👍👍🏻👦👦🏻💖',
+      animeName:'Code Geass: Hangyaku no Lelouch R2',
+      animeYear:2008,
+      animeLink:'https://myanimelist.net/anime/2904/Code_Geass__Hangyaku_no_Lelouch_R2'
+  },
 ];
