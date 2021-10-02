@@ -180,4 +180,10 @@ export default [
 		animeYear: 2009,
 		animeLink: 'https://myanimelist.net/anime/5081/Bakemonogatari',
 	},
+	{
+		animeEmoji: '👍🏻🏻👦👦👍🏻👦🏻👍🏻👦🏻🏡💖👍🏻👦',
+		animeName: 'Toradora!',
+		animeYear: 2008,
+		animeLink: 'https://myanimelist.net/anime/4224/Toradora',
+	},
 ];
