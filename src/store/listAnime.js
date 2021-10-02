@@ -131,4 +131,10 @@ export default [
       animeYear:1982,
       animeLink:'https://myanimelist.net/anime/820/Ginga_Eiyuu_Densetsu'
   },
+  {
+      animeEmoji:'👍🏻🏻👦👦🤖👍🏻👦🏻👍👍🏻🏻👦👦🏻💖',
+      animeName:'Koe no Katachi',
+      animeYear:2016,
+      animeLink:'https://myanimelist.net/anime/28851/Koe_no_Katachi'
+  },
 ];
