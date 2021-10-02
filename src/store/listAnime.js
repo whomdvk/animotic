@@ -137,4 +137,10 @@ export default [
       animeYear:2016,
       animeLink:'https://myanimelist.net/anime/28851/Koe_no_Katachi'
   },
+  {
+      animeEmoji:'👍🏻🏻👦👦👍🏻👦🏻👍👍🏻🏻👦👦🏻💖',
+      animeName:'Clannad: After Story',
+      animeYear:2008,
+      animeLink:'https://myanimelist.net/anime/4181/Clannad__After_Story'
+  },
 ];
