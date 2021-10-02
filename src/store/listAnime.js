@@ -186,4 +186,10 @@ export default [
 		animeYear: 2008,
 		animeLink: 'https://myanimelist.net/anime/4224/Toradora',
 	},
+	{
+		animeEmoji: '👍🏻🏻👦👦👍🏻👦🏻👍🏻👦🏻🌃☁️👍🏻👦',
+		animeName: 'Planetes',
+		animeYear: 2003,
+		animeLink: 'https://myanimelist.net/anime/329/Planetes',
+	},
 ];
