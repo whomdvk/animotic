@@ -95,4 +95,10 @@ export default [
       animeYear:2015,
       animeLink:'https://myanimelist.net/anime/28977/Gintama'
   },
+  {
+      animeEmoji:'👧👍🌃☁️',
+      animeName:'Sora no Aosa wo Shiru Hito yo',
+      animeYear:2020,
+      animeLink:'https://myanimelist.net/anime/39569/Sora_no_Aosa_wo_Shiru_Hito_yo'
+  },
 ];
