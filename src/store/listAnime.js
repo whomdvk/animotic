@@ -192,4 +192,10 @@ export default [
 		animeYear: 2003,
 		animeLink: 'https://myanimelist.net/anime/329/Planetes',
 	},
+	{
+		animeEmoji: '👍🏻🏻👦👍🏻👦🏻🌃☁️👍🏻👦',
+		animeName: 'Katanagatari',
+		animeYear: 2010,
+		animeLink: 'https://myanimelist.net/anime/6594/Katanagatari',
+	},
 ];
