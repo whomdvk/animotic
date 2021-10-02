@@ -113,4 +113,10 @@ export default [
       animeYear:2019,
       animeLink:'https://myanimelist.net/anime/36936/Mirai_no_Mirai'
   },
+  {
+      animeEmoji:'🤖👦🏻👍🏻💖',
+      animeName:'Stand by Me Doraemon 2',
+      animeYear:2020,
+      animeLink:'https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2'
+  },
 ];
