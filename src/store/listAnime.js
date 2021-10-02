@@ -101,4 +101,10 @@ export default [
       animeYear:2020,
       animeLink:'https://myanimelist.net/anime/39569/Sora_no_Aosa_wo_Shiru_Hito_yo'
   },
+  {
+      animeEmoji:'🏡💖😘👩🏻👨🏻',
+      animeName:'Kotonoha no Niwa',
+      animeYear:2013,
+      animeLink:'https://myanimelist.net/anime/16782/Kotonoha_no_Niwa'
+  },
 ];
