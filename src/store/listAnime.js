@@ -119,4 +119,10 @@ export default [
       animeYear:2020,
       animeLink:'https://myanimelist.net/anime/40853/Stand_By_Me_Doraemon_2'
   },
+  {
+      animeEmoji:'🤖🍜👍🏻👦🏻👍🏻💖',
+      animeName:'Fruits Basket: The Final',
+      animeYear:2021,
+      animeLink:'https://myanimelist.net/anime/42938/Fruits_Basket__The_Final'
+  },
 ];
