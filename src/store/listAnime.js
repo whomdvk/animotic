@@ -161,4 +161,10 @@ export default [
       animeYear:2021,
       animeLink:'https://myanimelist.net/anime/44074/Shiguang_Dailiren'
   },
+  {
+      animeEmoji:'👍🏻🏻👦👦👍🏻👦🏻👍🏻👦🏻',
+      animeName:'Violet Evergarden Movie',
+      animeYear:2021,
+      animeLink:'https://myanimelist.net/anime/37987/Violet_Evergarden_Movie'
+  },
 ];
