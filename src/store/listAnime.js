@@ -107,4 +107,10 @@ export default [
       animeYear:2013,
       animeLink:'https://myanimelist.net/anime/16782/Kotonoha_no_Niwa'
   },
+  {
+      animeEmoji:'👧🏻👦🏻⛅👍🏻',
+      animeName:'Mirai no Mirai',
+      animeYear:2019,
+      animeLink:'https://myanimelist.net/anime/36936/Mirai_no_Mirai'
+  },
 ];
