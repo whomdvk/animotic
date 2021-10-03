@@ -264,4 +264,10 @@ export default [
 		animeYear: 2021,
 		animeLink: 'https://myanimelist.net/anime/48569/86_2nd_Season',
 	},
+	{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️🌃☁️👦👍🏻👑👦🍜👍🏻🏻👑👦',
+		animeName: 'One Piece',
+		animeYear: 1999,
+		animeLink: 'https://myanimelist.net/anime/21/One_Piece',
+	},
 ];
