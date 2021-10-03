@@ -233,4 +233,10 @@ export default [
 		animeYear: 2019,
 		animeLink: 'https://myanimelist.net/anime/37972/Hoshiai_no_Sora',
 	},
+	},
+		animeEmoji: '👍🏻🏻🌃☁️🌃☁️👦🍜👍🏻🍜👍🏻🏻🏻',
+		animeName: 'Nichijou',
+		animeYear: 2011,
+		animeLink: 'https://myanimelist.net/anime/10165/Nichijou',
+	},
 ];
