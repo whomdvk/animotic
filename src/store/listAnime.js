@@ -258,4 +258,10 @@ export default [
 		animeYear: 2021,
 		animeLink: 'https://myanimelist.net/anime/40434/Mo_Dao_Zu_Shi__Wanjie_Pian',
 	},
+	{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️🌃👑☁️👦👍🏻👑👦🍜👍🏻🏻👑👦',
+		animeName: '86 2nd Season',
+		animeYear: 2021,
+		animeLink: 'https://myanimelist.net/anime/48569/86_2nd_Season',
+	},
 ];
