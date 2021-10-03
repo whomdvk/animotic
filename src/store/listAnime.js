@@ -215,5 +215,11 @@ export default [
 		animeName: 'Metal Fight Beyblade: Baku',
 		animeYear: 2010,
 		animeLink: 'https://myanimelist.net/anime/8410/Metal_Fight_Beyblade__Baku',
+	}
+	{
+		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👍🏻👦',
+		animeName: 'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
+		animeYear: 2013,
+		animeLink: 'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru',
 	},
 ];
