@@ -239,4 +239,10 @@ export default [
 		animeYear: 2011,
 		animeLink: 'https://myanimelist.net/anime/10165/Nichijou',
 	},
+	},
+		animeEmoji: '👍🏻🏻🌃☁️🌃☁️👦👍🏻🍜👍🏻🏻🏻',
+		animeName: 'Tokyo Revengers',
+		animeYear: 2021,
+		animeLink: 'https://myanimelist.net/anime/42249/Tokyo_Revengers',
+	},
 ];
