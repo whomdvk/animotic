@@ -227,4 +227,10 @@ export default [
 		animeYear: 2021,
 		animeLink: 'https://myanimelist.net/anime/42395/Shakunetsu_Kabaddi',
 	},
+	},
+		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👦🍜👍🏻🍜👍🏻🏻🏻',
+		animeName: 'Hoshiai no Sora',
+		animeYear: 2019,
+		animeLink: 'https://myanimelist.net/anime/37972/Hoshiai_no_Sora',
+	},
 ];
