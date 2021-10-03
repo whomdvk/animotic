@@ -252,4 +252,10 @@ export default [
 		animeYear: 2021,
 		animeLink: 'https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_2nd_Season',
 	},
+	{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️🌃👑☁️👦👍🏻👑👦🍜👍🏻🏻🏻👑👦',
+		animeName: 'Mo Dao Zu Shi: Wanjie Pian',
+		animeYear: 2021,
+		animeLink: 'https://myanimelist.net/anime/40434/Mo_Dao_Zu_Shi__Wanjie_Pian',
+	},
 ];
