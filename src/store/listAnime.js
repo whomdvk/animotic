@@ -193,13 +193,13 @@ export default [
 		animeLink: 'https://myanimelist.net/anime/329/Planetes',
 	},
 	{
-		animeEmoji: '👍🏻🏻👦👍🏻👦🏻🌃☁️👍🏻👦',
+		animeEmoji: '🍜👍🏻🍜👍🏻👍🏻🏻👍🏻🏻👦👍🏻👦🏻🌃☁️👍🏻👦',
 		animeName: 'Katanagatari',
 		animeYear: 2010,
 		animeLink: 'https://myanimelist.net/anime/6594/Katanagatari',
 	}
 	{
-		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👍🏻👦',
+		animeEmoji: '👍🏻🏻👦🌃☁️🍜👍🏻🍜👍🏻👍🏻🏻🌃☁️👍🏻👦',
 		animeName: 'Digimon Savers',
 		animeYear: 2006,
 		animeLink: 'https://myanimelist.net/anime/859/Digimon_Savers',
@@ -211,15 +211,20 @@ export default [
 		animeLink: 'https://myanimelist.net/anime/15489/Yu%E2%98%86Gi%E2%98%86Oh_Zexal_Second',
 	}
 	{
-		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👍🏻👦',
+		animeEmoji: '👍🏻🏻👦🌃🍜👍🏻🍜👍🏻👍🏻🏻☁️🌃☁️👍🏻👦',
 		animeName: 'Metal Fight Beyblade: Baku',
 		animeYear: 2010,
 		animeLink: 'https://myanimelist.net/anime/8410/Metal_Fight_Beyblade__Baku',
 	}
 	{
-		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👍🏻👦',
+		animeEmoji: '👍🏻🏻🍜👍🏻🍜👍🏻👍🏻🏻👦🌃☁️🌃☁️👍🏻👦',
 		animeName: 'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
 		animeYear: 2013,
 		animeLink: 'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru',
+	},
+		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👦🍜👍🏻🍜👍🏻👍🏻🏻',
+		animeName: 'Shakunetsu Kabaddi',
+		animeYear: 2021,
+		animeLink: 'https://myanimelist.net/anime/42395/Shakunetsu_Kabaddi',
 	},
 ];
