@@ -197,5 +197,11 @@ export default [
 		animeName: 'Katanagatari',
 		animeYear: 2010,
 		animeLink: 'https://myanimelist.net/anime/6594/Katanagatari',
+	}
+	{
+		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👍🏻👦',
+		animeName: 'Digimon Savers',
+		animeYear: 2006,
+		animeLink: 'https://myanimelist.net/anime/859/Digimon_Savers',
 	},
 ];
