@@ -209,5 +209,11 @@ export default [
 		animeName: 'Yu☆Gi☆Oh! Zexal Second',
 		animeYear: 2012,
 		animeLink: 'https://myanimelist.net/anime/15489/Yu%E2%98%86Gi%E2%98%86Oh_Zexal_Second',
+	}
+	{
+		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👍🏻👦',
+		animeName: 'Metal Fight Beyblade: Baku',
+		animeYear: 2010,
+		animeLink: 'https://myanimelist.net/anime/8410/Metal_Fight_Beyblade__Baku',
 	},
 ];
