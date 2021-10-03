@@ -203,5 +203,11 @@ export default [
 		animeName: 'Digimon Savers',
 		animeYear: 2006,
 		animeLink: 'https://myanimelist.net/anime/859/Digimon_Savers',
+	}
+	{
+		animeEmoji: '👍🏻🏻👦🌃🏻👦🌃☁️🌃☁️👍🏻👦',
+		animeName: 'Yu☆Gi☆Oh! Zexal Second',
+		animeYear: 2012,
+		animeLink: 'https://myanimelist.net/anime/15489/Yu%E2%98%86Gi%E2%98%86Oh_Zexal_Second',
 	},
 ];
