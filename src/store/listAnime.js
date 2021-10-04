@@ -276,4 +276,10 @@ export default [
 		animeYear: 2020,
 		animeLink: 'https://myanimelist.net/anime/40682/Kingdom_3rd_Season',
 	},
+	{
+		animeEmoji: '👑👦👍🏻🏻☁️🌃☁️👦👍🏻👑👦🍜👍🏻👑👦',
+		animeName: 'Holo no Graffiti',
+		animeYear: 2019,
+		animeLink: 'https://myanimelist.net/anime/44042/Holo_no_Graffiti',
+	},
 ];
