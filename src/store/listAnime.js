@@ -282,4 +282,10 @@ export default [
 		animeYear: 2019,
 		animeLink: 'https://myanimelist.net/anime/44042/Holo_no_Graffiti',
 	},
+	{
+		animeEmoji: '👑👦👍🏻🏻☁️🌃☁️👦👑👦🍜👍🏻👑👦',
+		animeName: 'Detective Conan',
+		animeYear: 1996,
+		animeLink: 'https://myanimelist.net/anime/235/Detective_Conan',
+	},
 ];
