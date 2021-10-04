@@ -270,4 +270,10 @@ export default [
 		animeYear: 1999,
 		animeLink: 'https://myanimelist.net/anime/21/One_Piece',
 	},
+	{
+		animeEmoji: '👑👦👍🏻🏻☁️🌃☁️👦👍🏻👑👦🍜👍🏻🏻👑👦',
+		animeName: 'Kingdom 3rd Season',
+		animeYear: 2020,
+		animeLink: 'https://myanimelist.net/anime/40682/Kingdom_3rd_Season',
+	},
 ];
