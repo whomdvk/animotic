@@ -294,4 +294,10 @@ export default [
 		animeYear: 2020
 		animeLink: 'https://myanimelist.net/anime/44248/Fate_Grand_Carnival',
 	},
+	{
+		animeEmoji: '👺🔪👿',
+		animeName: 'Kimetsu no Yaiba',
+		animeYear: 2019,
+		animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
+	},
 ];
