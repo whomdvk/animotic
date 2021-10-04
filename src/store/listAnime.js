@@ -288,4 +288,10 @@ export default [
 		animeYear: 1996,
 		animeLink: 'https://myanimelist.net/anime/235/Detective_Conan',
 	},
+	{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+		animeName: 'Fate/Grand Carnival',
+		animeYear: 2020
+		animeLink: 'https://myanimelist.net/anime/44248/Fate_Grand_Carnival',
+	},
 ];
