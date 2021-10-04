@@ -197,19 +197,19 @@ export default [
 		animeName: 'Katanagatari',
 		animeYear: 2010,
 		animeLink: 'https://myanimelist.net/anime/6594/Katanagatari',
-	}
+	},
 	{
 		animeEmoji: '👍🏻🏻👦🌃☁️🍜👍🏻🍜👍🏻👍🏻🏻🌃☁️👍🏻👦',
 		animeName: 'Digimon Savers',
 		animeYear: 2006,
 		animeLink: 'https://myanimelist.net/anime/859/Digimon_Savers',
-	}
+	},
 	{
 		animeEmoji: '👍🏻🏻👦🌃🏻👦🌃☁️🌃☁️👍🏻👦',
 		animeName: 'Yu☆Gi☆Oh! Zexal Second',
 		animeYear: 2012,
 		animeLink: 'https://myanimelist.net/anime/15489/Yu%E2%98%86Gi%E2%98%86Oh_Zexal_Second',
-	}
+	},
 	{
 		animeEmoji: '👍🏻🏻👦🌃🍜👍🏻🍜👍🏻👍🏻🏻☁️🌃☁️👍🏻👦',
 		animeName: 'Metal Fight Beyblade: Baku',
@@ -222,27 +222,34 @@ export default [
 		animeYear: 2013,
 		animeLink: 'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru',
 	},
+	{
 		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👦🍜👍🏻🍜👍🏻👍🏻🏻',
 		animeName: 'Shakunetsu Kabaddi',
 		animeYear: 2021,
 		animeLink: 'https://myanimelist.net/anime/42395/Shakunetsu_Kabaddi',
 	},
-	},
+	{
 		animeEmoji: '👍🏻🏻👦🌃☁️🌃☁️👦🍜👍🏻🍜👍🏻🏻🏻',
 		animeName: 'Hoshiai no Sora',
 		animeYear: 2019,
 		animeLink: 'https://myanimelist.net/anime/37972/Hoshiai_no_Sora',
 	},
-	},
+	{
 		animeEmoji: '👍🏻🏻🌃☁️🌃☁️👦🍜👍🏻🍜👍🏻🏻🏻',
 		animeName: 'Nichijou',
 		animeYear: 2011,
 		animeLink: 'https://myanimelist.net/anime/10165/Nichijou',
 	},
-	},
+	{
 		animeEmoji: '👍🏻🏻🌃☁️🌃☁️👦👍🏻🍜👍🏻🏻🏻',
 		animeName: 'Tokyo Revengers',
 		animeYear: 2021,
 		animeLink: 'https://myanimelist.net/anime/42249/Tokyo_Revengers',
+	},
+	{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️🌃👑👦☁️👦👍🏻👑👦🍜👍🏻🏻🏻👑👦',
+		animeName: 'Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season',
+		animeYear: 2021,
+		animeLink: 'https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_2nd_Season',
 	},
 ];
