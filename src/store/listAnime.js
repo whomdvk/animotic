@@ -294,4 +294,10 @@ export default [
 		animeYear: 2020
 		animeLink: 'https://myanimelist.net/anime/44248/Fate_Grand_Carnival',
 	},
+{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+		animeName: 'Haikyuu!!',
+		animeYear: 2014
+		animeLink: 'https://myanimelist.net/anime/20583/Haikyuu',
+	},														
 ];
