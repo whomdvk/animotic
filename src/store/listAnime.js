@@ -299,5 +299,11 @@ export default [
 		animeName: 'Haikyuu!!',
 		animeYear: 2014
 		animeLink: 'https://myanimelist.net/anime/20583/Haikyuu',
-	},														
+	},
+{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+		animeName: 'Haikyuu!! Second Season',
+		animeYear: 2015
+		animeLink: 'https://myanimelist.net/anime/28891/Haikyuu_Second_Season',
+	},																			
 ];
