@@ -305,5 +305,11 @@ export default [
 		animeName: 'Haikyuu!! Second Season',
 		animeYear: 2015
 		animeLink: 'https://myanimelist.net/anime/28891/Haikyuu_Second_Season',
-	},																			
+	},
+{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+		animeName: 'Kuroko no Basket',
+		animeYear: 2012
+		animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
+	},																								
 ];
