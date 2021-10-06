@@ -1,5 +1,11 @@
 export default [
 	{
+		animeEmoji: '👧💕🔗👦',
+		animeName: 'Kokoro Connect',
+		animeYear: 2012,
+		animeLink: 'https://myanimelist.net/anime/11887/Kokoro_Connect'
+    	},
+	{
 		animeEmoji: '👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻',
 		animeName: 'Yojouhan Shinwa Taikei',
 		animeYear: 2010,
