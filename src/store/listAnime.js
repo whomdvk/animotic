@@ -289,6 +289,12 @@ export default [
 		animeLink: 'https://myanimelist.net/anime/235/Detective_Conan',
 	},
 	{
+        animeEmoji: "🚗🚘🏁🛤🥛",
+        animeName: "Initial D",
+        animeYear: 1998,
+        animeLink: "https://myanimelist.net/anime/185/Initial_D_First_Stage"
+    },
+	{
 		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Fate/Grand Carnival',
 		animeYear: 2020
