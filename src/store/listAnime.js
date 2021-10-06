@@ -329,5 +329,11 @@ export default [
 		animeName: 'Psycho-Pass',
 		animeYear: 2012,
 		animeLink: 'https://myanimelist.net/anime/13601/Psycho-Pass',
+	},
+	{
+		animeEmoji: '👑👦👍🏻🌃☁️👦🍜👍🏻️👑👑👦',
+		animeName: 'Guilty Crown',
+		animeYear: 2011,
+		animeLink: 'https://myanimelist.net/anime/10793/Guilty_Crown',
 	},																															
 ];
