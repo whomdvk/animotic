@@ -311,5 +311,11 @@ export default [
 		animeName: 'Kuroko no Basket',
 		animeYear: 2012
 		animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
-	},																								
+	},
+{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+		animeName: 'Yuri!!! on Ice',
+		animeYear: 2016
+		animeLink: 'https://myanimelist.net/anime/32995/Yuri_',
+	},																															
 ];
