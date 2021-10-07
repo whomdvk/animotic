@@ -317,5 +317,11 @@ export default [
 		animeName: 'Yuri!!! on Ice',
 		animeYear: 2016,
 		animeLink: 'https://myanimelist.net/anime/32995/Yuri_',
-	},																															
+	},	
+	{
+		animeEmoji: '👑👦👍🏻🌃☁️👦👑👦🍜👍🏻️👑👑👦',
+		animeName: 'Shingeki no Kyojin',
+		animeYear: 2013,
+		animeLink: 'https://myanimelist.net/anime/16498/Shingeki_no_Kyojin',
+	},																														
 ];
