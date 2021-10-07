@@ -291,31 +291,31 @@ export default [
 	{
 		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Fate/Grand Carnival',
-		animeYear: 2020
+		animeYear: 2020,
 		animeLink: 'https://myanimelist.net/anime/44248/Fate_Grand_Carnival',
 	},
-{
-		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+	{
+		animeEmoji: '👑️👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Haikyuu!!',
-		animeYear: 2014
+		animeYear: 2014,
 		animeLink: 'https://myanimelist.net/anime/20583/Haikyuu',
 	},
-{
-		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+	{
+		animeEmoji: '👑👦👍🏻🏻️👑🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Haikyuu!! Second Season',
-		animeYear: 2015
+		animeYear: 2015,
 		animeLink: 'https://myanimelist.net/anime/28891/Haikyuu_Second_Season',
 	},
-{
-		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+	{
+		animeEmoji: '👑👦👍🏻🏻🌃️👑☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Kuroko no Basket',
-		animeYear: 2012
+		animeYear: 2012,
 		animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
 	},
-{
-		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
+	{
+		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻️👑👑👦',
 		animeName: 'Yuri!!! on Ice',
-		animeYear: 2016
+		animeYear: 2016,
 		animeLink: 'https://myanimelist.net/anime/32995/Yuri_',
 	},																															
 ];
