@@ -323,5 +323,11 @@ export default [
 		animeName: 'Shingeki no Kyojin',
 		animeYear: 2013,
 		animeLink: 'https://myanimelist.net/anime/16498/Shingeki_no_Kyojin',
-	},																														
+	},
+	{
+		animeEmoji: '👑👦👍🏻🌃☁️👦👦🍜👍🏻️👑👑👦',
+		animeName: 'Psycho-Pass',
+		animeYear: 2012,
+		animeLink: 'https://myanimelist.net/anime/13601/Psycho-Pass',
+	},																															
 ];
