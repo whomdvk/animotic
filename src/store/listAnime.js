@@ -365,5 +365,11 @@ export default [
 		animeName: 'Fairy Tail',
 		animeYear: 2009,
 		animeLink: 'https://myanimelist.net/anime/6702/Fairy_Tail',
-	},																																
+	},
+	{
+		animeEmoji: '👑🍜👑👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑🍜👑👑👑',
+		animeName: 'Log Horizon',
+		animeYear: 2013,
+		animeLink: 'https://myanimelist.net/anime/6702/Fairy_Tail',
+	},																																	
 ];
