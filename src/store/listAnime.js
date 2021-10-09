@@ -370,6 +370,12 @@ export default [
 		animeEmoji: '👑🍜👑👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑🍜👑👑👑',
 		animeName: 'Log Horizon',
 		animeYear: 2013,
-		animeLink: 'https://myanimelist.net/anime/6702/Fairy_Tail',
-	},																																	
+		animeLink: 'https://myanimelist.net/anime/17265/Log_Horizon',
+	},	
+	{
+		animeEmoji: '👑🍜👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑🍜👑👑👑',
+		animeName: 'Hellsing Ultimate',
+		animeYear: 2006,
+		animeLink: 'https://myanimelist.net/anime/777/Hellsing_Ultimate',
+	},																																		
 ];
