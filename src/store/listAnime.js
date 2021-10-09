@@ -341,5 +341,11 @@ export default [
 		animeName: 'Elfen Lied',
 		animeYear: 2004,
 		animeLink: 'https://myanimelist.net/anime/226/Elfen_Lied',
+	},
+	{
+		animeEmoji: '👑🍜👑👑👦👍🏻🌃🍜👑👑👑☁️👦🍜👍🏻️👑👑👦🍜👑👑👑🍜👑👑👑',
+		animeName: 'Maoyu ~ Archenemy & Hero',
+		animeYear: 2013,
+		animeLink: 'https://myanimelist.net/anime/14833/Maoyuu_Maou_Yuusha',
 	},																													
 ];
