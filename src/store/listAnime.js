@@ -373,9 +373,9 @@ export default [
 		animeLink: 'https://myanimelist.net/anime/17265/Log_Horizon',
 	},	
 	{
-		animeEmoji: '👑🍜👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑🍜👑👑👑',
-		animeName: 'Hellsing Ultimate',
-		animeYear: 2006,
-		animeLink: 'https://myanimelist.net/anime/777/Hellsing_Ultimate',
+		animeEmoji: '👑🍜👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑🍜👑👑',
+		animeName: 'Nanbaka',
+		animeYear: 2016,
+		animeLink: 'https://myanimelist.net/anime/30016/Nanbaka',
 	},																																		
 ];
