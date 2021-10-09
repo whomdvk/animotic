@@ -1,6 +1,6 @@
 export default [
 	{
-		animeEmoji: '👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻',
+		animeEmoji: '👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻', 🍜👑👑👑
 		animeName: 'Yojouhan Shinwa Taikei',
 		animeYear: 2010,
 		animeLink: 'https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei',
@@ -335,5 +335,11 @@ export default [
 		animeName: 'Guilty Crown',
 		animeYear: 2011,
 		animeLink: 'https://myanimelist.net/anime/10793/Guilty_Crown',
-	},																															
+	},
+	{
+		animeEmoji: '👑🍜👑👑👑👦👍🏻🌃🍜👑👑👑☁️👦🍜👍🏻️👑👑👦🍜👑👑👑🍜👑👑👑',
+		animeName: 'Elfen Lied',
+		animeYear: 2004,
+		animeLink: 'https://myanimelist.net/anime/226/Elfen_Lied',
+	},																													
 ];
