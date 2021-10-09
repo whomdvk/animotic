@@ -359,5 +359,11 @@ export default [
 		animeName: 'Brynhildr in the Darkness',
 		animeYear: 2014,
 		animeLink: 'https://myanimelist.net/anime/21431/Gokukoku_no_Brynhildr',
-	},																																	
+	},	
+	{
+		animeEmoji: '👑🍜👑👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑👑👑🍜👑👑👑',
+		animeName: 'Fairy Tail',
+		animeYear: 2009,
+		animeLink: 'https://myanimelist.net/anime/6702/Fairy_Tail',
+	},																																
 ];
