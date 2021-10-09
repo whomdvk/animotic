@@ -353,5 +353,11 @@ export default [
 		animeName: 'Aesthetica of a Rogue Hero',
 		animeYear: 2012,
 		animeLink: 'https://myanimelist.net/anime/13161/Hagure_Yuusha_no_Aesthetica',
-	},																															
+	},
+	{
+		animeEmoji: '👑🍜👑👑👦👍🏻🌃🍜👑👑☁️👦🍜👍🏻️👑👦🍜👑👑👑🍜👑👑👑',
+		animeName: 'Brynhildr in the Darkness',
+		animeYear: 2014,
+		animeLink: 'https://myanimelist.net/anime/21431/Gokukoku_no_Brynhildr',
+	},																																	
 ];
