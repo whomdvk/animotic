@@ -389,7 +389,8 @@ export default [
     {
         animeEmoji: "⚔️🎨🥽 🤖 ⚔️👿 ⬇🌎",
         animeName: "Sword Art Online: Alicization War of Underworld",
-        animeYear: "2012",
-        animeLink: "https://myanimelist.net/anime/11757/Sword_Art_Online",
+        animeYear: "2020",
+        animeLink:
+            "https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld",
     },
 ];
