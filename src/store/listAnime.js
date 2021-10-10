@@ -387,8 +387,8 @@ export default [
         animeLink: "https://myanimelist.net/anime/30016/Nanbaka",
     },
     {
-        animeEmoji: "⚔️🎨🥽",
-        animeName: "Sword Art Online",
+        animeEmoji: "⚔️🎨🥽 🤖 ⚔️👿 ⬇🌎",
+        animeName: "Sword Art Online: Alicization War of Underworld",
         animeYear: "2012",
         animeLink: "https://myanimelist.net/anime/11757/Sword_Art_Online",
     },
