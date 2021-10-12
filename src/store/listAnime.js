@@ -397,8 +397,14 @@ export default [
     },
     {
         animeEmoji: "🎆💪🌧⚔️🎨🎆💪🌧 🤖 ⚔️👿 ⬇🎆💪🌧🌎",
-        animeName: "The Testament of Sister New Devil",
+        animeName: "Kamisama Kiss",
         animeYear: 2012,
-        animeLink: "Kamisama Kiss",
+        animeLink: "https://myanimelist.net/anime/14713/Kamisama_Hajimemashita",
+    },
+    {
+        animeEmoji: "🎆💪🌧⚔️🎨💪🌧 🤖 ⚔️👿 ⬇🎆💪🌧🌎",
+        animeName: "Beelzebub",
+        animeYear: 2011,
+        animeLink: "https://myanimelist.net/anime/9513/Beelzebub",
     },
 ];
