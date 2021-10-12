@@ -395,4 +395,10 @@ export default [
         animeYear: 2015,
         animeLink: "https://myanimelist.net/anime/23233/Shinmai_Maou_no_Testament",
     },
+    {
+        animeEmoji: "🎆💪🌧⚔️🎨🎆💪🌧 🤖 ⚔️👿 ⬇🎆💪🌧🌎",
+        animeName: "The Testament of Sister New Devil",
+        animeYear: 2012,
+        animeLink: "Kamisama Kiss",
+    },
 ];
