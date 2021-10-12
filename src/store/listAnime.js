@@ -221,7 +221,7 @@ export default [
 		animeName: 'Metal Fight Beyblade: Baku',
 		animeYear: 2010,
 		animeLink: 'https://myanimelist.net/anime/8410/Metal_Fight_Beyblade__Baku',
-	}
+	},
 	{
 		animeEmoji: '👍🏻🏻🍜👍🏻🍜👍🏻👍🏻🏻👦🌃☁️🌃☁️👍🏻👦',
 		animeName: 'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
@@ -294,34 +294,102 @@ export default [
 		animeYear: 1996,
 		animeLink: 'https://myanimelist.net/anime/235/Detective_Conan',
 	},
-	{
+  {
 		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Fate/Grand Carnival',
 		animeYear: 2020
 		animeLink: 'https://myanimelist.net/anime/44248/Fate_Grand_Carnival',
 	},
-{
+  {
 		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Haikyuu!!',
 		animeYear: 2014
 		animeLink: 'https://myanimelist.net/anime/20583/Haikyuu',
 	},
-{
+  {
 		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Haikyuu!! Second Season',
 		animeYear: 2015
 		animeLink: 'https://myanimelist.net/anime/28891/Haikyuu_Second_Season',
 	},
-{
+  {
 		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Kuroko no Basket',
 		animeYear: 2012
 		animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
 	},
-{
+  {
 		animeEmoji: '👑👦👍🏻🏻🌃☁️👦👑👦🍜👍🏻👑👦',
 		animeName: 'Yuri!!! on Ice',
 		animeYear: 2016
 		animeLink: 'https://myanimelist.net/anime/32995/Yuri_',
-	},																															
+	},	
+    {
+        animeEmoji: "👑👦👍🏻🌃☁️👦👑👦🍜👍🏻️👑👑👦",
+        animeName: "Shingeki no Kyojin",
+        animeYear: 2013,
+        animeLink: "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+    },
+    {
+        animeEmoji: "👑👦👍🏻🌃☁️👦👦🍜👍🏻️👑👑👦",
+        animeName: "Psycho-Pass",
+        animeYear: 2012,
+        animeLink: "https://myanimelist.net/anime/13601/Psycho-Pass",
+    },
+    {
+        animeEmoji: "👑👦👍🏻🌃☁️👦🍜👍🏻️👑👑👦",
+        animeName: "Guilty Crown",
+        animeYear: 2011,
+        animeLink: "https://myanimelist.net/anime/10793/Guilty_Crown",
+    },
+    {
+        animeEmoji: "👑🍜👑👑👑👦👍🏻🌃🍜👑👑👑☁️👦🍜👍🏻️👑👑👦🍜👑👑👑🍜👑👑👑",
+        animeName: "Elfen Lied",
+        animeYear: 2004,
+        animeLink: "https://myanimelist.net/anime/226/Elfen_Lied",
+    },
+    {
+        animeEmoji: "👑🍜👑👑👦👍🏻🌃🍜👑👑👑☁️👦🍜👍🏻️👑👑👦🍜👑👑👑🍜👑👑👑",
+        animeName: "Maoyu ~ Archenemy & Hero",
+        animeYear: 2013,
+        animeLink: "https://myanimelist.net/anime/14833/Maoyuu_Maou_Yuusha",
+    },
+    {
+        animeEmoji: "👑🍜👑👑👦👍🏻🌃🍜👑👑☁️👦🍜👍🏻️👑👑👦🍜👑👑👑🍜👑👑👑",
+        animeName: "Aesthetica of a Rogue Hero",
+        animeYear: 2012,
+        animeLink:
+            "https://myanimelist.net/anime/13161/Hagure_Yuusha_no_Aesthetica",
+    },
+    {
+        animeEmoji: "👑🍜👑👑👦👍🏻🌃🍜👑👑☁️👦🍜👍🏻️👑👦🍜👑👑👑🍜👑👑👑",
+        animeName: "Brynhildr in the Darkness",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/21431/Gokukoku_no_Brynhildr",
+    },
+    {
+        animeEmoji: "👑🍜👑👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑👑👑🍜👑👑👑",
+        animeName: "Fairy Tail",
+        animeYear: 2009,
+        animeLink: "https://myanimelist.net/anime/6702/Fairy_Tail",
+    },
+    {
+        animeEmoji: "👑🍜👑👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑🍜👑👑👑",
+        animeName: "Log Horizon",
+        animeYear: 2013,
+        animeLink: "https://myanimelist.net/anime/17265/Log_Horizon",
+    },
+    {
+        animeEmoji: "👑🍜👑👦👍🏻🌃🍜👑👑☁️🍜👍🏻️👑👦🍜👑🍜👑👑",
+        animeName: "Nanbaka",
+        animeYear: 2016,
+        animeLink: "https://myanimelist.net/anime/30016/Nanbaka",
+    },
+    {
+        animeEmoji: "⚔️🎨🥽 🤖 ⚔️👿 ⬇🌎",
+        animeName: "Sword Art Online: Alicization War of Underworld",
+        animeYear: "2020",
+        animeLink:
+            "https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld",
+    },
 ];
