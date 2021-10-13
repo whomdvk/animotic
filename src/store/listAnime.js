@@ -255,15 +255,13 @@ export default [
         animeEmoji: "👑👦👍🏻🏻🌃☁️🌃👑👦☁️👦👍🏻👑👦🍜👍🏻🏻🏻👑👦",
         animeName: "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season",
         animeYear: 2021,
-        animeLink:
-            "https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_2nd_Season",
+        animeLink: "https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_2nd_Season",
     },
     {
         animeEmoji: "👑👦👍🏻🏻🌃☁️🌃👑☁️👦👍🏻👑👦🍜👍🏻🏻🏻👑👦",
         animeName: "Mo Dao Zu Shi: Wanjie Pian",
         animeYear: 2021,
-        animeLink:
-            "https://myanimelist.net/anime/40434/Mo_Dao_Zu_Shi__Wanjie_Pian",
+        animeLink: "https://myanimelist.net/anime/40434/Mo_Dao_Zu_Shi__Wanjie_Pian",
     },
     {
         animeEmoji: "👑👦👍🏻🏻🌃☁️🌃👑☁️👦👍🏻👑👦🍜👍🏻🏻👑👦",
@@ -359,8 +357,7 @@ export default [
         animeEmoji: "👑🍜👑👑👦👍🏻🌃🍜👑👑☁️👦🍜👍🏻️👑👑👦🍜👑👑👑🍜👑👑👑",
         animeName: "Aesthetica of a Rogue Hero",
         animeYear: 2012,
-        animeLink:
-            "https://myanimelist.net/anime/13161/Hagure_Yuusha_no_Aesthetica",
+        animeLink: "https://myanimelist.net/anime/13161/Hagure_Yuusha_no_Aesthetica",
     },
     {
         animeEmoji: "👑🍜👑👑👦👍🏻🌃🍜👑👑☁️👦🍜👍🏻️👑👦🍜👑👑👑🍜👑👑👑",
@@ -389,8 +386,13 @@ export default [
     {
         animeEmoji: "⚔️🎨🥽 🤖 ⚔️👿 ⬇🌎",
         animeName: "Sword Art Online: Alicization War of Underworld",
-        animeYear: "2020",
-        animeLink:
-            "https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld",
+        animeYear: 2020,
+        animeLink: "https://myanimelist.net/anime/39597/Sword_Art_Online__Alicization_-_War_of_Underworld",
+    },
+    {
+        animeEmoji: "🎆💪🌧⚔️🎨🥽🎆💪🌧 🤖 ⚔️👿 ⬇🎆💪🌧🌎",
+        animeName: "The Testament of Sister New Devil",
+        animeYear: 2015,
+        animeLink: "https://myanimelist.net/anime/23233/Shinmai_Maou_no_Testament",
     },
 ];
