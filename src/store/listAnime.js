@@ -407,4 +407,10 @@ export default [
         animeYear: 2011,
         animeLink: "https://myanimelist.net/anime/9513/Beelzebub",
     },
+    {
+        animeEmoji: "🎆💪⚔️🎨💪🌧🤖⚔️👿⬇💪🌧🌎",
+        animeName: "Natsume's Book of Friends",
+        animeYear: 2008,
+        animeLink: "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
+    },
 ];
