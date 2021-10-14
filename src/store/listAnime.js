@@ -413,4 +413,10 @@ export default [
         animeYear: 2008,
         animeLink: "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
     },
+    {
+        animeEmoji: "🚀🌌🐕🌹🔫🌃🌎",
+        animeName: "Cowboy Bebop",
+        animeYear: 1998,
+        animeLink: "https://myanimelist.net/anime/1/Cowboy_Bebop",
+    },
 ];
