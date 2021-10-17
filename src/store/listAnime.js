@@ -419,4 +419,10 @@ export default [
         animeYear: 1999,
         animeLink: "https://myanimelist.net/anime/245/Great_Teacher_Onizuka",
     },
+    {
+        animeEmoji: "🧛‍♀️🌙🌹✨",
+        animeName: "Lunar Legend Tsukihime",
+        animeYear: 2003,
+        animeLink: "https://myanimelist.net/anime/169/Shingetsutan_Tsukihime",
+    },
 ];
