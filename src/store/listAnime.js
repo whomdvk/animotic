@@ -413,4 +413,10 @@ export default [
         animeYear: 2008,
         animeLink: "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
     },
+    {
+        animeEmoji: "🎆💪⚔️🎨💪🌧🤖🎆💪⚔️⚔️👿💪🌧🌎🎆💪⚔️",
+        animeName: "Yuukoku no Moriarty",
+        animeYear: 2020,
+        animeLink: "https://myanimelist.net/anime/40911/Yuukoku_no_Moriarty",
+    },
 ];
