@@ -413,4 +413,10 @@ export default [
         animeYear: 2008,
         animeLink: "https://myanimelist.net/anime/4081/Natsume_Yuujinchou",
     },
+    {
+        animeEmoji: "🤣🔥🏫👨‍🏫🏍️",
+        animeName: "Great Teacher Onizuka",
+        animeYear: 1999,
+        animeLink: "https://myanimelist.net/anime/245/Great_Teacher_Onizuka",
+    },
 ];
