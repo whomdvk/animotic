@@ -425,4 +425,10 @@ export default [
         animeYear: 2009,
         animeLink: "https://myanimelist.net/anime/5177/Denpa-teki_na_Kanojo",
     },
+    {
+        animeEmoji: "🎆💪⚔️💪🌧🤖🎆💪⚔️👿💪🌧🌎🎆💪⚔️",
+        animeName: "Babylon",
+        animeYear: 2019,
+        animeLink: "https://myanimelist.net/anime/37525/Babylon",
+    },
 ];
