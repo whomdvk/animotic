@@ -431,4 +431,10 @@ export default [
         animeYear: 2019,
         animeLink: "https://myanimelist.net/anime/37525/Babylon",
     },
+    {
+        animeEmoji: "🎆💪⚔️💪🤖🎆💪⚔️👿💪🌧🌎🎆💪⚔️",
+        animeName: Shigofumi: Letters from the Departed
+        animeYear: 2008,
+        animeLink: "https://myanimelist.net/anime/3420/Shigofumi",
+    },
 ];
