@@ -419,4 +419,10 @@ export default [
         animeYear: 2020,
         animeLink: "https://myanimelist.net/anime/40911/Yuukoku_no_Moriarty",
     },
+    {
+        animeEmoji: "🎆💪⚔️🎨💪🌧🤖🎆💪⚔️👿💪🌧🌎🎆💪⚔️",
+        animeName: "Denpa-teki na Kanojo",
+        animeYear: 2009,
+        animeLink: "https://myanimelist.net/anime/5177/Denpa-teki_na_Kanojo",
+    },
 ];
