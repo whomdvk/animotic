@@ -431,4 +431,11 @@ export default [
         animeYear: 2019,
         animeLink: "https://myanimelist.net/anime/37525/Babylon",
     },
+    
+    {
+        animeEmoji: "🎆💪⚔️💪🌧🤖🎆💪⚔️👿💪🌧🌎🎆💪⚔️",
+        animeName: "Komi-san wa, Comyushou desu",
+        animeYear: 2021,
+        animeLink: "https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu",
+    },
 ];
