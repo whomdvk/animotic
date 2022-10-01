@@ -444,4 +444,10 @@ export default [
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50185/Rymans_Club",
   },
+  {
+    animeEmoji: "👪🏠💏",
+    animeName: "SPY x FAMILY",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50265/Spy_x_Family",
+  },
 ];
