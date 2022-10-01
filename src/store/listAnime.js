@@ -438,4 +438,10 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru",
   },
+  {
+    animeEmoji: "👨🏫🏸💲",
+    animeName: "Salaryman's Club",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50185/Rymans_Club",
+  },
 ];
