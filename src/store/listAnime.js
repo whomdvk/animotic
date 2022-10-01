@@ -450,4 +450,11 @@ export default [
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50265/Spy_x_Family",
   },
+  {
+    animeEmoji: "🔯🧝‍♂️🎇",
+    animeName: "The Strongest Sage with the Weakest Crest",
+    animeYear: 2022,
+    animeLink:
+      "https://myanimelist.net/anime/47161/Shikkakumon_no_Saikyou_Kenja",
+  },
 ];
