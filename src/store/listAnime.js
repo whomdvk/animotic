@@ -477,4 +477,11 @@ export default [
 		animeLink:
 			'https://myanimelist.net/anime/49520/Aharen-san_wa_Hakarenai?q=Aharen-san%20wa%20hakarenai&cat=anime',
 	},
+	{
+		animeEmoji: '🔯🧝‍♂️🎇 😎 🏊 😁 😥',
+		animeName: 'Blade Runner: Black Out 2022',
+		animeYear: 2022,
+		animeLink:
+			'https://myanimelist.net/anime/36308/Blade_Runner__Black_Out_2022?q=2022&cat=anime',
+	},
 ];
