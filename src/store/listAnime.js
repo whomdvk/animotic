@@ -470,4 +470,11 @@ export default [
 		animeLink:
 			'https://myanimelist.net/anime/47194/Summertime_Render?q=Summer%20Time%20Rendering&cat=anime',
 	},
+	{
+		animeEmoji: '🔯🧝‍♂️🎇 😎 🏊 😁',
+		animeName: 'Aharen-san wa hakarenai',
+		animeYear: 2022,
+		animeLink:
+			'https://myanimelist.net/anime/49520/Aharen-san_wa_Hakarenai?q=Aharen-san%20wa%20hakarenai&cat=anime',
+	},
 ];
