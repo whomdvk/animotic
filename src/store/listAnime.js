@@ -463,4 +463,11 @@ export default [
 		animeYear: 2022,
 		animeLink: 'https://myanimelist.net/anime/49310/Fruits_Basket__Prelude',
 	},
+	{
+		animeEmoji: '🔯🧝‍♂️🎇 😎 🏊',
+		animeName: 'Summer Time Rendering',
+		animeYear: 2022,
+		animeLink:
+			'https://myanimelist.net/anime/47194/Summertime_Render?q=Summer%20Time%20Rendering&cat=anime',
+	},
 ];
