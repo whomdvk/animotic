@@ -503,4 +503,17 @@ export default [
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/53001/Hanabi_2022",
   },
+  {
+    animeEmoji: "💓✨🎇🎆",
+    animeName: "Hanabi",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/53001/Hanabi_2022",
+  },
+  {
+    animeEmoji: "💓💓💏💐🌎",
+    animeName: "Love After World Domination",
+    animeYear: 2022,
+    animeLink:
+      "https://myanimelist.net/anime/48643/Koi_wa_Sekai_Seifuku_no_Ato_de",
+  },
 ];
