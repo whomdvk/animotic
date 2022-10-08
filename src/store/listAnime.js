@@ -490,4 +490,11 @@ export default [
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/48857/Healer_Girl",
   },
+  {
+    animeEmoji: "👧💓🌷✨",
+    animeName: "Shikimori's Not Just a Cutie",
+    animeYear: 2022,
+    animeLink:
+      "https://myanimelist.net/anime/45613/Kawaii_dake_ja_Nai_Shikimori-san",
+  },
 ];
