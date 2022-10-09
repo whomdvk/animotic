@@ -530,4 +530,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken",
   },
+  {
+    animeEmoji: "💓💓💏💐🌎🙂😝🤪🤨",
+    animeName: "Sword Art Online: Alicization",
+    animeYear: 2018,
+    animeLink:
+      "https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization",
+  },
 ];
