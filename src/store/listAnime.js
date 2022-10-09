@@ -537,4 +537,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/36474/Sword_Art_Online__Alicization",
   },
+  {
+    animeEmoji: "💓💏💐🌎🙂😝🤪🤨",
+    animeName: "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+    animeYear: 2018,
+    animeLink:
+      "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze",
+  },
 ];
