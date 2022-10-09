@@ -523,4 +523,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai",
   },
+  {
+    animeEmoji: "💓💓💏💐🌎🙂😝🤪",
+    animeName: "Tensei shitara Slime Datta Ken",
+    animeYear: 2018,
+    animeLink:
+      "https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken",
+  },
 ];
