@@ -516,4 +516,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/48643/Koi_wa_Sekai_Seifuku_no_Ato_de",
   },
+  {
+    animeEmoji: "💓💓💏💐🌎🙂😝",
+    animeName: "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    animeYear: 2018,
+    animeLink:
+      "https://myanimelist.net/anime/37450/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai",
+  },
 ];
