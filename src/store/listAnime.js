@@ -544,4 +544,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze",
   },
+    {
+    animeEmoji: "💓💏💐🌎🙂😝🤪🤨😎",
+    animeName: "Tokyo Ghoul:re 2nd Season",
+    animeYear: 2018,
+    animeLink:
+      "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season",
+  },
 ];
