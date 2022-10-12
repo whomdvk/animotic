@@ -558,4 +558,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu",
   },
+        {
+    animeEmoji: "💓💏💐🌎🙂😝🤪🤨😎😘✌️",
+    animeName: "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_Part_2",
+  },
 ];
