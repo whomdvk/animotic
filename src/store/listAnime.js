@@ -573,16 +573,17 @@ export default [
       "https://myanimelist.net/anime/40834/Ousama_Ranking",
   },
    {
-    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️☺️",
-    animeName: "Ousama Ranking",
-    animeYear: 2021,
-    animeLink:
-      "    {
-    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️",
+    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️😎",
     animeName: "Takt Op. Destiny",
     animeYear: 2021,
     animeLink:
       "https://myanimelist.net/anime/40834/Ousama_Ranking",
-  },",
+  },
+  {
+    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨",
+    animeName: "Mieruko-chan",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/48483/Mieruko-chan",
   },
 ];
