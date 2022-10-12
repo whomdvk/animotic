@@ -551,4 +551,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season",
   },
+      {
+    animeEmoji: "💓💏💐🌎🙂😝🤪🤨😎😘",
+    animeName: "Komi-san wa, Comyushou desu.",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu",
+  },
 ];
