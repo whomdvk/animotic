@@ -551,4 +551,25 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season",
   },
+    {
+    animeEmoji: "💓💏💐🌎🙂😝🤪🤨😎😘",
+    animeName: "Komi-san wa, Comyushou desu.",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu",
+  },
+    {
+    animeEmoji: "💓💏💐🌎🙂😝🤪🤨😎😘✌️",
+    animeName: "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_Part_2",
+  },
+    {
+    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️",
+    animeName: "Ousama Ranking",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/40834/Ousama_Ranking",
+  },
 ];
