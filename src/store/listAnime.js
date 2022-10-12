@@ -593,4 +593,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/46352/Blue_Period",
   },
+  {
+    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥸",
+    animeName: "Mahouka Koukou no Yuutousei",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/45572/Mahouka_Koukou_no_Yuutousei",
+  },
 ];
