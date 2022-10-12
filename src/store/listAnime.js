@@ -572,4 +572,17 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/40834/Ousama_Ranking",
   },
+   {
+    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️☺️",
+    animeName: "Ousama Ranking",
+    animeYear: 2021,
+    animeLink:
+      "    {
+    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️",
+    animeName: "Takt Op. Destiny",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/40834/Ousama_Ranking",
+  },",
+  },
 ];
