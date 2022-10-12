@@ -577,7 +577,7 @@ export default [
     animeName: "Takt Op. Destiny",
     animeYear: 2021,
     animeLink:
-      "https://myanimelist.net/anime/40834/Ousama_Ranking",
+      "https://myanimelist.net/anime/48483/Mieruko-chan",
   },
   {
     animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨",
@@ -585,5 +585,12 @@ export default [
     animeYear: 2021,
     animeLink:
       "https://myanimelist.net/anime/48483/Mieruko-chan",
+  },
+   {
+    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳",
+    animeName: "Blue Period",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/46352/Blue_Period",
   },
 ];
