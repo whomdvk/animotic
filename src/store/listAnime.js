@@ -600,4 +600,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/45572/Mahouka_Koukou_no_Yuutousei",
   },
+  {
+    animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺🥸",
+    animeName: "Scarlet Nexus",
+    animeYear: 2021,
+    animeLink:
+      "https://myanimelist.net/anime/48492/Scarlet_Nexus",
+  },
 ];
