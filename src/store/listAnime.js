@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
+    animeName: "Yuusha, Yamemasu",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50175/Yuusha_Yamemasu",
+  },
+  {
     animeEmoji: "👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
     animeName: "Paripi Koumei",
     animeYear: 2022,
