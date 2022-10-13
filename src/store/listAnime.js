@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
+    animeName: "Paripi Koumei",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50380/Paripi_Koumei",
+  },
+  {
     animeEmoji: "👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑",
     animeName: "Yojouhan Shinwa Taikei",
     animeYear: 2010,
