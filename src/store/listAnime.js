@@ -614,4 +614,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/50265/Spy_x_Family",
   },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺😎🥸",
+    animeName: "Kawaii dake ja Nai Shikimori-san",
+    animeYear: 2022,
+    animeLink:
+      "https://myanimelist.net/anime/45613/Kawaii_dake_ja_Nai_Shikimori-san,
+  },
 ];
