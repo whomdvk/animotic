@@ -556,54 +556,48 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/37991/JoJo_no_Kimyou_na_Bouken_Part_5__Ougon_no_Kaze",
   },
-    {
+  {
     animeEmoji: "💓💏💐🌎🙂😝🤪🤨😎",
     animeName: "Tokyo Ghoul:re 2nd Season",
     animeYear: 2018,
-    animeLink:
-      "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season",
+    animeLink: "https://myanimelist.net/anime/37799/Tokyo_Ghoul_re_2nd_Season",
   },
-    {
+  {
     animeEmoji: "💓💏💐🌎🙂😝🤪🤨😎😘",
     animeName: "Komi-san wa, Comyushou desu.",
     animeYear: 2021,
-    animeLink:
-      "https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu",
+    animeLink: "https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu",
   },
-    {
+  {
     animeEmoji: "💓💏💐🌎🙂😝🤪🤨😎😘✌️",
     animeName: "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
     animeYear: 2021,
     animeLink:
       "https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_Part_2",
   },
-    {
+  {
     animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️",
     animeName: "Ousama Ranking",
     animeYear: 2021,
-    animeLink:
-      "https://myanimelist.net/anime/40834/Ousama_Ranking",
+    animeLink: "https://myanimelist.net/anime/40834/Ousama_Ranking",
   },
-   {
+  {
     animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️😎",
     animeName: "Takt Op. Destiny",
     animeYear: 2021,
-    animeLink:
-      "https://myanimelist.net/anime/48483/Mieruko-chan",
+    animeLink: "https://myanimelist.net/anime/48483/Mieruko-chan",
   },
   {
     animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨",
     animeName: "Mieruko-chan",
     animeYear: 2021,
-    animeLink:
-      "https://myanimelist.net/anime/48483/Mieruko-chan",
+    animeLink: "https://myanimelist.net/anime/48483/Mieruko-chan",
   },
-   {
+  {
     animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳",
     animeName: "Blue Period",
     animeYear: 2021,
-    animeLink:
-      "https://myanimelist.net/anime/46352/Blue_Period",
+    animeLink: "https://myanimelist.net/anime/46352/Blue_Period",
   },
   {
     animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥸",
@@ -616,15 +610,13 @@ export default [
     animeEmoji: "💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺🥸",
     animeName: "Scarlet Nexus",
     animeYear: 2021,
-    animeLink:
-      "https://myanimelist.net/anime/48492/Scarlet_Nexus",
+    animeLink: "https://myanimelist.net/anime/48492/Scarlet_Nexus",
   },
   {
     animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺🥸",
     animeName: "Spy x Family",
     animeYear: 2022,
-    animeLink:
-      "https://myanimelist.net/anime/50265/Spy_x_Family",
+    animeLink: "https://myanimelist.net/anime/50265/Spy_x_Family",
   },
   {
     animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺😎🥸",
@@ -637,14 +629,18 @@ export default [
     animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺😎🥸🧐",
     animeName: "Aharen-san wa Hakarenai",
     animeYear: 2022,
-    animeLink:
-      "https://myanimelist.net/anime/49520/Aharen-san_wa_Hakarenai",
+    animeLink: "https://myanimelist.net/anime/49520/Aharen-san_wa_Hakarenai",
   },
   {
     animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺😎🥸🥳🧐",
     animeName: "Tomodachi Game",
     animeYear: 2022,
-    animeLink:
-      "https://myanimelist.net/anime/50273/Tomodachi_Game",
+    animeLink: "https://myanimelist.net/anime/50273/Tomodachi_Game",
+  },
+  {
+    animeEmoji: " 👹🥷🏻🗡☠️",
+    animeName: "Kimetsu no Yaiba",
+    animeYear: 2019,
+    animeLink: "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba",
   },
 ];
