@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍👦🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
+    animeName: "Love All Play,
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/49556/Love_All_Play",
+  },
+  {
     animeEmoji: "👑👦👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
     animeName: "Yuusha, Yamemasu",
     animeYear: 2022,
