@@ -1,7 +1,13 @@
 export default [
   {
+    animeEmoji: "👑👦👍👦🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑👑😖",
+    animeName: "Healer Girl",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/48857/Healer_Girl",
+  },
+  {
     animeEmoji: "👑👦👍👦🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
-    animeName: "Love All Play,
+    animeName: "Love All Play",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/49556/Love_All_Play",
   },
