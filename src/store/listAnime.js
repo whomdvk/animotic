@@ -607,4 +607,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/48492/Scarlet_Nexus",
   },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺🥸",
+    animeName: "Spy x Family",
+    animeYear: 2022,
+    animeLink:
+      "https://myanimelist.net/anime/50265/Spy_x_Family",
+  },
 ];
