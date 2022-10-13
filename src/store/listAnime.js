@@ -621,4 +621,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/45613/Kawaii_dake_ja_Nai_Shikimori-san,
   },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘✌️🤨🥳🥺😎🥸🧐",
+    animeName: "Aharen-san wa Hakarenai",
+    animeYear: 2022,
+    animeLink:
+      "https://myanimelist.net/anime/49520/Aharen-san_wa_Hakarenai,
+  },
 ];
