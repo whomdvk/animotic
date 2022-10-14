@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻 🍜👑👑😖",
+    animeName: "Kaginado Season 2",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50685/Kaginado_Season_2",
+  },
+  {
     animeEmoji: "👑👦👍🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑😖",
     animeName: "Build Divide: Code White",
     animeYear: 2022,
