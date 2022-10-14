@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻👍🏻👦👍🏻 🍜👑😖",
+    animeName: "Estab-Life: Great Escape,
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50862/Estab-Life__Great_Escape",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻 🍜👑😖",
     animeName: "Kyoukai Senki Part 2,
     animeYear: 2022,
