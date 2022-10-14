@@ -1,13 +1,19 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻👍🏻👍🏻 🍜👑😖",
+    animeName: "Yatogame-chan Kansatsu Nikki Yonsatsume"
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50438/Yatogame-chan_Kansatsu_Nikki_Yonsatsume",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻👍🏻👦👍🏻 🍜👑😖",
-    animeName: "Estab-Life: Great Escape,
+    animeName: "Estab-Life: Great Escape",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50862/Estab-Life__Great_Escape",
   },
   {
     animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻 🍜👑😖",
-    animeName: "Kyoukai Senki Part 2,
+    animeName: "Kyoukai Senki Part 2",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50678/Kyoukai_Senki_Part_2",
   },
