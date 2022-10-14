@@ -1,13 +1,19 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻👍🏻🍜👑😖🤪🥶",
+    animeName: "Chiikawa",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50250/Chiikawa",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻👍🏻🍜👑😖",
-    animeName: "Shadowverse Flame"
+    animeName: "Shadowverse Flame",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50060/Shadowverse_Flame",
   },
   {
     animeEmoji: "👑👦👍🍜🏻👍🏻👍🏻🍜👑😖",
-    animeName: "Yatogame-chan Kansatsu Nikki Yonsatsume"
+    animeName: "Yatogame-chan Kansatsu Nikki Yonsatsume",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50438/Yatogame-chan_Kansatsu_Nikki_Yonsatsume",
   },
