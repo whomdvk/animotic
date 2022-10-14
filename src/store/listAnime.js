@@ -1,66 +1,72 @@
 export default [
   {
-    animeEmoji: "👑👦👍🍜🏻👍🏻👍🏻 🍜👑😖",
+    animeEmoji: "👑👦👍🍜🏻👍🏻🍜👑😖",
+    animeName: "Shadowverse Flame"
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50060/Shadowverse_Flame",
+  },
+  {
+    animeEmoji: "👑👦👍🍜🏻👍🏻👍🏻🍜👑😖",
     animeName: "Yatogame-chan Kansatsu Nikki Yonsatsume"
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50438/Yatogame-chan_Kansatsu_Nikki_Yonsatsume",
   },
   {
-    animeEmoji: "👑👦👍🍜🏻👍🏻👦👍🏻 🍜👑😖",
+    animeEmoji: "👑👦👍🍜🏻👍🏻👦👍🏻🍜👑😖",
     animeName: "Estab-Life: Great Escape",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50862/Estab-Life__Great_Escape",
   },
   {
-    animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻 🍜👑😖",
+    animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻🍜👑😖",
     animeName: "Kyoukai Senki Part 2",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50678/Kyoukai_Senki_Part_2",
   },
   {
-    animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻 🍜👑👑😖",
+    animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻🍜👑👑😖",
     animeName: "Kaginado Season 2",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50685/Kaginado_Season_2",
   },
   {
-    animeEmoji: "👑👦👍🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑😖",
+    animeEmoji: "👑👦👍🍜👍🏻👍🏻🏻👦🍜👍🏻🍜👑👑😖",
     animeName: "Build Divide: Code White",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/48777/Build_Divide__Code_White",
   },
   {
-    animeEmoji: "👑👦👍🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑👑😖",
+    animeEmoji: "👑👦👍🍜👍🏻👍🏻🏻👦🍜👍🏻🍜👑👑👑😖",
     animeName: "Shin Ikkitousen",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/49342/Shin_Ikkitousen",
   },
   {
-    animeEmoji: "👑👦👍👦🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑👑😖",
+    animeEmoji: "👑👦👍👦🍜👍🏻👍🏻🏻👦🍜👍🏻🍜👑👑👑😖",
     animeName: "Healer Girl",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/48857/Healer_Girl",
   },
   {
-    animeEmoji: "👑👦👍👦🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
+    animeEmoji: "👑👦👍👦🍜👍🏻👍🏻🏻👦👦🍜👍🏻🍜👑👑👑😖",
     animeName: "Love All Play",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/49556/Love_All_Play",
   },
   {
-    animeEmoji: "👑👦👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
+    animeEmoji: "👑👦👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻🍜👑👑👑😖",
     animeName: "Yuusha, Yamemasu",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50175/Yuusha_Yamemasu",
   },
   {
-    animeEmoji: "👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑😖",
+    animeEmoji: "👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻🍜👑👑👑😖",
     animeName: "Paripi Koumei",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50380/Paripi_Koumei",
   },
   {
-    animeEmoji: "👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻 🍜👑👑👑",
+    animeEmoji: "👑👦🍜👍👦🍜🍜👍🏻👍🏻🏻👦👦🍜👍🏻🍜👑👑👑",
     animeName: "Yojouhan Shinwa Taikei",
     animeYear: 2010,
     animeLink: "https://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei",
