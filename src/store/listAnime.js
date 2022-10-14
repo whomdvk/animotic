@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑😖",
+    animeName: "Build Divide: Code White",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/48777/Build_Divide__Code_White",
+  },
+  {
     animeEmoji: "👑👦👍🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑👑😖",
     animeName: "Shin Ikkitousen",
     animeYear: 2022,
