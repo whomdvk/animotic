@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻 🍜👑😖",
+    animeName: "Kyoukai Senki Part 2,
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50678/Kyoukai_Senki_Part_2",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻👍🏻👦🍜👍🏻 🍜👑👑😖",
     animeName: "Kaginado Season 2",
     animeYear: 2022,
