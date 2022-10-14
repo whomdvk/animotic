@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑👑😖",
+    animeName: "Shin Ikkitousen",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/49342/Shin_Ikkitousen",
+  },
+  {
     animeEmoji: "👑👦👍👦🍜👍🏻👍🏻🏻👦🍜👍🏻 🍜👑👑👑😖",
     animeName: "Healer Girl",
     animeYear: 2022,
