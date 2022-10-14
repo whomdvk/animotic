@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻👍🏻🍜👑😖🤪",
+    animeName: "Madtoy Chatty",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/52463/Madtoy_Chatty",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻👍🏻🍜👑😖🤪🥶",
     animeName: "Chiikawa",
     animeYear: 2022,
