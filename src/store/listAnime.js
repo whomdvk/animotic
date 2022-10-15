@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🐥🫢🤪🙆‍♀️🐱",
+    animeName: "Bubble",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50549/Bubble
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🫢🤪🙆‍♀️🐱",
     animeName: "Manul no Yuube",
     animeYear: 2022,
