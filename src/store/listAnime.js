@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍😝🍜🏻🥲👍🏻🍜😕👑😖😗🐥🫢🤪🙆‍♀️🐱",
+    animeName: "Zuihou de Zhaohuan Shi",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/41915/Zuihou_de_Zhaohuan_Shi",
+  },
+  {
     animeEmoji: "👑👦👍😝🍜🏻🥲👍🏻🍜👑😖😗🐥🫢🤪🙆‍♀️🐱",
     animeName: "Vampire in the Garden",
     animeYear: 2022,
