@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🫢🤪",
+    animeName: "Uchuu Nanchara Kotetsu-kun",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/42870/Uchuu_Nanchara_Kotetsu-kun",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🤪",
     animeName: "Shiawase Haitatsu Taneko",
     animeYear: 2022,
