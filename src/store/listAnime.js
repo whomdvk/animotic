@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🫢🤪🙆‍♀️",
+    animeName: "Kirin the Noop",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/35694/Kirin_the_Noop",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🫢🤪",
     animeName: "Uchuu Nanchara Kotetsu-kun",
     animeYear: 2022,
