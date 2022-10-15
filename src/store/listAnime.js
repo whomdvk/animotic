@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🤪",
+    animeName: "Shiawase Haitatsu Taneko",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/10506/Shiawase_Haitatsu_Taneko",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖🤪",
     animeName: "Shikaru Neko",
     animeYear: 2022,
