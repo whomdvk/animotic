@@ -1,9 +1,15 @@
 export default [
   {
+    animeEmoji: "👑👦👍😝🍜🏻🥲👍🏻🍜👑😖😗🐥🫢🤪🙆‍♀️🐱",
+    animeName: "Vampire in the Garden",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/39518/Vampire_in_the_Garden",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🐥🫢🤪🙆‍♀️🐱",
     animeName: "Bubble",
     animeYear: 2022,
-    animeLink: "https://myanimelist.net/anime/50549/Bubble
+    animeLink: "https://myanimelist.net/anime/50549/Bubble",
   },
   {
     animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖😗🫢🤪🙆‍♀️🐱",
