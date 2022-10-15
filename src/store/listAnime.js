@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍🍜🏻🥲👍🏻🍜👑😖🤪",
+    animeName: "Shikaru Neko",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/48442/Shikaru_Neko",
+  },
+  {
     animeEmoji: "👑👦👍🍜🏻👍🏻🍜👑😖🤪",
     animeName: "Madtoy Chatty",
     animeYear: 2022,
