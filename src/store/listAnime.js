@@ -785,4 +785,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/50273/Tomodachi_Game",
   },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘🤨🥳🥺🥸🥳🧐",
+    animeName: "Yakusoku no Neverland",
+    animeYear: 2019,
+    animeLink:
+      "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland",
+  },
 ];
