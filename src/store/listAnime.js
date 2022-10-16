@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍👺😾😝🍜🏻🥲👍🏻🍜😕👑😖😗🤨🐥🫢🤪🙆‍♀️🐱",
+    animeName: "Golden Kamuy 4th Season",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50528/Golden_Kamuy_4th_Season",
+  },
+  {
     animeEmoji: "👑👦👍👺😝🍜🏻🥲👍🏻🍜😕👑😖😗🤨🐥🫢🤪🙆‍♀️🐱",
     animeName: "Mairimashita! Iruma-kun 3rd Season",
     animeYear: 2022,
