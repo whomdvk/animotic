@@ -1,6 +1,12 @@
 export default [
   {
     animeEmoji: "👑👦👍😝🍜🏻🥲👍🏻🍜😕👑😖😗🤨🐥🫢🤪🙆‍♀️🐱",
+    animeName: "Tensei shitara Ken Deshita",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/49891/Tensei_shitara_Ken_Deshita",
+  },
+  {
+    animeEmoji: "👑👦👍😝🍜🏻🥲👍🏻🍜😕👑😖😗🤨🐥🫢🤪🙆‍♀️🐱",
     animeName: "Chainsaw Man",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/44511/Chainsaw_Man",
