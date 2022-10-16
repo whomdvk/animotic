@@ -799,4 +799,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/120/Fruits_Basket",
   },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😒😘🤨🥳🥺🥸🥳🧐",
+    animeName: "Vinland Saga",
+    animeYear: 2019,
+    animeLink:
+      "https://myanimelist.net/anime/37521/Vinland_Saga",
+  },
 ];
