@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍😝🍜🏻🥲👍🏻🍜😕👑😖😗🤨🐥🫢🤪🙆‍♀️🐱",
+    animeName: "Chainsaw Man",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/44511/Chainsaw_Man",
+  },
+  {
     animeEmoji: "👑👦👍😝🍜🏻🥲👍🏻🍜😕👑😖😗🐥🫢🤪🙆‍♀️🐱",
     animeName: "Zuihou de Zhaohuan Shi",
     animeYear: 2022,
