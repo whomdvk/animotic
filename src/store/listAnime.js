@@ -792,4 +792,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland",
   },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😒😘🤨🥳🥺🥸🥳🧐",
+    animeName: "Fruits Basket",
+    animeYear: 2019,
+    animeLink:
+      "https://myanimelist.net/anime/120/Fruits_Basket",
+  },
 ];
