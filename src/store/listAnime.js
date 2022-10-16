@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍👺😝🍜🏻🥲👍🏻🍜😕👑😖😗🤨🐥🫢🤪🙆‍♀️🐱",
+    animeName: "Mairimashita! Iruma-kun 3rd Season",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/49784/Mairimashita_Iruma-kun_3rd_Season",
+  },
+  {
     animeEmoji: "👑👦👍😝🍜🏻🥲👍🏻🍜😕👑😖😗🤨🐥🫢🤪🙆‍♀️🐱",
     animeName: "Tensei shitara Ken Deshita",
     animeYear: 2022,
