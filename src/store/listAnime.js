@@ -806,4 +806,11 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/37521/Vinland_Saga",
   },
+  {
+    animeEmoji: "🤑😴💐🌎🙂😝🤪🤨😒😘🤨🥳🥺🥸🥳🧐",
+    animeName: "Ore wo Suki nano wa Omae dake ka yo",
+    animeYear: 2019,
+    animeLink:
+      "https://myanimelist.net/anime/38483/Ore_wo_Suki_nano_wa_Omae_dake_ka_yo",
+  },
 ];
