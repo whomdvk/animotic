@@ -824,5 +824,18 @@ export default [
     animeName: "Baki",
     animeYear: 2018,
     animeLink: "https://myanimelist.net/anime/34443/Baki",
-  }
+  },
+  {
+    animeEmoji: "😀😆🥰🤗🤩😙😊😋☺️😍😘😚🤔🥲😣😥🤐😮",
+    animeName: "Baki",
+    animeYear: 2018,
+    animeLink: "https://myanimelist.net/anime/34443/Baki",
+  },
+  {
+    animeEmoji: "🤐😍☺️🤗😚😋🤷‍♂️😜😆🥰😊😙🥰☺️😚🤩",
+    animeName: "Nande Koko ni Sensei ga!?",
+    animeYear: 2019,
+    animeLink: "https://myanimelist.net/anime/38397/Nande_Koko_ni_Sensei_ga",
+  },
+  
 ];
