@@ -837,5 +837,12 @@ export default [
     animeYear: 2019,
     animeLink: "https://myanimelist.net/anime/38397/Nande_Koko_ni_Sensei_ga",
   },
+  {
+    animeEmoji: "😖😞🙃🤑😲☹️😒🥱😫😪😯🙄😑🤨🤨😐",
+    animeName: "Barakamon",
+    animeYear: 2014,
+    animeLink: "https://myanimelist.net/anime/22789/Barakamon",
+  },
+  
   
 ];
