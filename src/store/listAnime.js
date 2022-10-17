@@ -813,4 +813,10 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/38483/Ore_wo_Suki_nano_wa_Omae_dake_ka_yo",
   },
+  {
+    animeEmoji: "🤣👌😁👍😂😊❤️😍😎👌🤷‍♂️😜💖",
+    animeName: "Hunter x Hunter (2011)",
+    animeYear: 2011,
+    animeLink: "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+  }
 ];
