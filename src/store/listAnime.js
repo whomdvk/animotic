@@ -785,4 +785,25 @@ export default [
     animeLink:
       "https://myanimelist.net/anime/50273/Tomodachi_Game",
   },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😘🤨🥳🥺🥸🥳🧐",
+    animeName: "Yakusoku no Neverland",
+    animeYear: 2019,
+    animeLink:
+      "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland",
+  },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😎😒😘🤨🥳🥺🥸🥳🧐",
+    animeName: "Fruits Basket",
+    animeYear: 2019,
+    animeLink:
+      "https://myanimelist.net/anime/120/Fruits_Basket",
+  },
+  {
+    animeEmoji: "🥶💏💐🌎🙂😝🤪🤨😒😘🤨🥳🥺🥸🥳🧐",
+    animeName: "Vinland Saga",
+    animeYear: 2019,
+    animeLink:
+      "https://myanimelist.net/anime/37521/Vinland_Saga",
+  },
 ];
