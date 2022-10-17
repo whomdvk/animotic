@@ -818,5 +818,11 @@ export default [
     animeName: "Hunter x Hunter (2011)",
     animeYear: 2011,
     animeLink: "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011",
+  },
+  {
+    animeEmoji: "😀😆🥰🤗🤩😙😊😋☺️😍😘😚🤔🥲😣😥🤐😮",
+    animeName: "Baki",
+    animeYear: 2018,
+    animeLink: "https://myanimelist.net/anime/34443/Baki",
   }
 ];
