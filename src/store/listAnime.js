@@ -1,5 +1,11 @@
 export default [
   {
+    animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🥲👍🏻🍜😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍♀️🐱",
+    animeName: "Manul no Yuube",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/38776/Manul_no_Yuube",
+  },  
+  {
     animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🥲👍🏻🍜😕👑😖😗🤨😎🐥🫢🤙🤪🙆‍♀️🐱",
     animeName: "Kirin the Noop",
     animeYear: 2022,
