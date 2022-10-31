@@ -1,6 +1,12 @@
 export default [
   {
-    animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🥲👍🏻🍜😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍🥳♀️🐱",
+    animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🤭🥲👍🏻🍜😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍🥳♀️🐱",
+    animeName: "Kirin the Noop",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/35694/Kirin_the_Noop",
+  }, 
+  {
+    animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🥲👍🏻🍜🤗😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍🥳♀️🐱",
     animeName: "Teikou Penguin",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/50522/Teikou_Penguin",
