@@ -1,8 +1,14 @@
 export default [
   {
+    animeEmoji: "👑👦👍👺🤑😾😝🍜🏻🫵🤭🥲👍🏻🍜😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍🥳♀️🐱",
+    animeName: "Madtoy Chatty",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/52463/Madtoy_Chatty",
+  }, 
+  {
     animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🤭🥲👍🏻🍜😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍🥳♀️🐱",
     animeName: "Kirin the Noop",
-    animeYear: 2022,
+    animeYear: 2014,
     animeLink: "https://myanimelist.net/anime/35694/Kirin_the_Noop",
   }, 
   {
@@ -14,7 +20,7 @@ export default [
   {
     animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🥲👍🏻🍜😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍🥳♀️🐱",
     animeName: "Uchuu Nanchara Kotetsu-kun",
-    animeYear: 2022,
+    animeYear: 2021,
     animeLink: "https://myanimelist.net/anime/42870/Uchuu_Nanchara_Kotetsu-kun",
   },  
   {
