@@ -1,6 +1,12 @@
 export default [
   {
     animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🥲👍🏻🍜😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍🥳♀️🐱",
+    animeName: "Teikou Penguin",
+    animeYear: 2022,
+    animeLink: "https://myanimelist.net/anime/50522/Teikou_Penguin",
+  }, 
+  {
+    animeEmoji: "👑👦👍👺😾😝🍜🏻🫵🥲👍🏻🍜😕👑😖😗🤨😎🙄🐥🫢🤙🤪🙆‍🥳♀️🐱",
     animeName: "Uchuu Nanchara Kotetsu-kun",
     animeYear: 2022,
     animeLink: "https://myanimelist.net/anime/42870/Uchuu_Nanchara_Kotetsu-kun",
